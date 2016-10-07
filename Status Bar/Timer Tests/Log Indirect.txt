@@ -1,0 +1,22 @@
+
+05:30:21:393 Globals.testTimerSet:  START
+05:30:42:397                     :  'Globals.testCallBack "testTimer","06:30:42"'                  :20.998461
+05:30:42:397 Globals.testTimerSet:  END                                                            :21.001476
+
+05:30:47:968 Globals.testTimerKill:  START
+05:30:47:968 Globals.testTimerKill:  END                                                           :0.001003
+
+05:30:59:387 Globals.testClose:  START
+05:30:59:387                  :  shutDown Scheduled                                                :0.001310
+05:30:59:387 Globals.testClose:  END                                                               :0.007293
+
+05:30:59:402 ThisWorkbook.closeWorkbook:  START
+05:30:59:402                           :  Saved                                                    :0.000890
+05:30:59:402  ThisWorkbook.Workbook_BeforeClose:  START
+05:30:59:402   Globals.testTimerKill:  START
+05:30:59:402   Globals.testTimerKill:  END                                                         :0.000508
+05:30:59:418   Globals.testTimerKill:  START
+05:30:59:418   Globals.testTimerKill:  END                                                         :0.000520
+05:30:59:418   Globals.testTimerKill:  START
+05:30:59:418   Globals.testTimerKill:  END                                                         :0.001172
+05:30:59:434  ThisWorkbook.Workbook_BeforeClose:  END                                              :0.021473

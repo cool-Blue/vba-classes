@@ -1,0 +1,1768 @@
+
+15:58:00:498 cBlockDiagram.Ws:  START
+15:58:05:681   : Screen Off                                                                                            :0.000007
+15:58:05:716   : xlCalculationManual                                                                                   :0.000013
+15:58:05:716   : Events Off                                                                                            :0.000005
+15:58:05:716  cBlockDiagram.cleanUp:  START
+15:58:05:721   tagging wVWwIUmqRt                                                                                      :0.001384
+15:58:05:721   tagging 3uZi7zG5cB                                                                                      :0.000541
+15:58:05:721   tagging C7thpNeAx4                                                                                      :0.000531
+15:58:05:721   tagging Bsl7mZaQQe                                                                                      :0.000548
+15:58:05:721   tagging fl4wZzh3R9                                                                                      :0.000507
+15:58:05:721   tagging oYg+79hOHX                                                                                      :0.000491
+15:58:05:721   tagging JomONTdEpO                                                                                      :0.000487
+15:58:05:721   tagging r0/1VlkAKs                                                                                      :0.000484
+15:58:05:726   tagging nWNAZ19HwP                                                                                      :0.000565
+15:58:05:726   tagging b10HgL8BWg                                                                                      :0.000482
+15:58:05:726   tagging nQ6Jnk1MZ3                                                                                      :0.000461
+15:58:05:726   tagging ZPZp6MKkqs                                                                                      :0.000463
+15:58:05:726   tagging IDKZP39s5U                                                                                      :0.000466
+15:58:05:726   tagging HMBzYHYQ7o                                                                                      :0.000466
+15:58:05:726   tagging H/k9SGc4Nr                                                                                      :0.000464
+15:58:05:726   tagging zm7LI5UpF5                                                                                      :0.000464
+15:58:05:726   tagging ck8L0CTT0/                                                                                      :0.000465
+15:58:05:726   tagging 5elVwgOmK6                                                                                      :0.000463
+15:58:05:731   tagging LVj1AUT9EN                                                                                      :0.000520
+15:58:05:731   tagging dZSBjhnmaJ                                                                                      :0.000467
+15:58:05:731   tagging /1Uai0Tmm0                                                                                      :0.000463
+15:58:05:731   tagging hov3Xwjssk                                                                                      :0.000462
+15:58:05:731   tagging maXZ1dKYiQ                                                                                      :0.000466
+15:58:05:731   tagging Gb9AdivjZX                                                                                      :0.000463
+15:58:05:731   tagging G2Vk4Q1RyE                                                                                      :0.000464
+15:58:05:731   tagging XfdiDp74c5                                                                                      :0.000462
+15:58:05:731   tagging v1tbOjyZNZ                                                                                      :0.000460
+15:58:05:731   tagging H+YEr9v8cL                                                                                      :0.000472
+15:58:05:736   tagging c5Q257+yCc                                                                                      :0.000599
+15:58:05:736   tagging c4fdVMDMYv                                                                                      :0.000834
+15:58:05:736   tagging 3M7PvuFREs                                                                                      :0.000631
+15:58:05:736   tagging xYiF0FSEtP                                                                                      :0.000474
+15:58:05:736   tagging ah997OUgy7                                                                                      :0.000470
+15:58:05:736   tagging GyiYesjU0D                                                                                      :0.000489
+15:58:05:736   tagging O3CjtWCgc/                                                                                      :0.000512
+15:58:05:736   tagging vZEfzzfM4U                                                                                      :0.000534
+15:58:05:736   tagging l/sfqJgF7h                                                                                      :0.000490
+15:58:05:741   tagging lzj2wKMMc/                                                                                      :0.000568
+15:58:05:741   tagging QoIiXrE8RD                                                                                      :0.000488
+15:58:05:741   tagging iODdI8qW8B                                                                                      :0.000477
+15:58:05:741   tagging Lo1SX2ARRJ                                                                                      :0.000480
+15:58:05:741   tagging dmCCjzXXbf                                                                                      :0.000499
+15:58:05:741   type to delete OLEObject                                                                                :0.000614
+15:58:05:741   deleting wVWwIUmqRt                                                                                     :0.000069
+15:58:05:741   type to delete OLEObject                                                                                :0.001879
+15:58:05:746   deleting 3uZi7zG5cB                                                                                     :0.000171
+15:58:05:771   type to delete OLEObject                                                                                :0.027766
+15:58:05:771   deleting C7thpNeAx4                                                                                     :0.000154
+15:58:05:771   type to delete OLEObject                                                                                :0.000650
+15:58:05:771   deleting Bsl7mZaQQe                                                                                     :0.000107
+15:58:05:771   type to delete OLEObject                                                                                :0.000535
+15:58:05:771   deleting fl4wZzh3R9                                                                                     :0.000113
+15:58:05:776   type to delete OLEObject                                                                                :0.000739
+15:58:05:776   deleting oYg+79hOHX                                                                                     :0.000179
+15:58:05:776   type to delete OLEObject                                                                                :0.000682
+15:58:05:776   deleting JomONTdEpO                                                                                     :0.000116
+15:58:05:776   type to delete OLEObject                                                                                :0.000496
+15:58:05:776   deleting r0/1VlkAKs                                                                                     :0.000115
+15:58:05:776   type to delete OLEObject                                                                                :0.000465
+15:58:05:776   deleting nWNAZ19HwP                                                                                     :0.000128
+15:58:05:776   type to delete OLEObject                                                                                :0.000453
+15:58:05:776   deleting b10HgL8BWg                                                                                     :0.000097
+15:58:05:776   type to delete OLEObject                                                                                :0.000410
+15:58:05:776   deleting nQ6Jnk1MZ3                                                                                     :0.000084
+15:58:05:776   type to delete OLEObject                                                                                :0.000409
+15:58:05:776   deleting ZPZp6MKkqs                                                                                     :0.000085
+15:58:05:776   type to delete OLEObject                                                                                :0.000411
+15:58:05:776   deleting IDKZP39s5U                                                                                     :0.000085
+15:58:05:781   type to delete OLEObject                                                                                :0.000473
+15:58:05:781   deleting HMBzYHYQ7o                                                                                     :0.000092
+15:58:05:781   type to delete OLEObject                                                                                :0.000404
+15:58:05:781   deleting H/k9SGc4Nr                                                                                     :0.000087
+15:58:05:781   type to delete OLEObject                                                                                :0.000409
+15:58:05:781   deleting zm7LI5UpF5                                                                                     :0.000089
+15:58:05:781   type to delete OLEObject                                                                                :0.000403
+15:58:05:781   deleting ck8L0CTT0/                                                                                     :0.000086
+15:58:05:781   type to delete OLEObject                                                                                :0.000395
+15:58:05:781   deleting 5elVwgOmK6                                                                                     :0.000085
+15:58:05:781   type to delete OLEObject                                                                                :0.000411
+15:58:05:781   deleting LVj1AUT9EN                                                                                     :0.000084
+15:58:05:781   type to delete OLEObject                                                                                :0.000393
+15:58:05:781   deleting dZSBjhnmaJ                                                                                     :0.000083
+15:58:05:781   type to delete OLEObject                                                                                :0.000396
+15:58:05:781   deleting /1Uai0Tmm0                                                                                     :0.000082
+15:58:05:781   type to delete OLEObject                                                                                :0.000392
+15:58:05:781   deleting hov3Xwjssk                                                                                     :0.000083
+15:58:05:786   type to delete OLEObject                                                                                :0.000415
+15:58:05:786   deleting maXZ1dKYiQ                                                                                     :0.000086
+15:58:05:786   type to delete OLEObject                                                                                :0.000393
+15:58:05:786   deleting Gb9AdivjZX                                                                                     :0.000083
+15:58:05:786   type to delete OLEObject                                                                                :0.000405
+15:58:05:786   deleting G2Vk4Q1RyE                                                                                     :0.000092
+15:58:05:786   type to delete OLEObject                                                                                :0.000403
+15:58:05:786   deleting XfdiDp74c5                                                                                     :0.000086
+15:58:05:786   type to delete OLEObject                                                                                :0.000391
+15:58:05:786   deleting v1tbOjyZNZ                                                                                     :0.000082
+15:58:05:786   type to delete OLEObject                                                                                :0.000405
+15:58:05:786   deleting H+YEr9v8cL                                                                                     :0.000085
+15:58:05:786   type to delete OLEObject                                                                                :0.000704
+15:58:05:786   deleting c5Q257+yCc                                                                                     :0.000127
+15:58:05:786   type to delete OLEObject                                                                                :0.000912
+15:58:05:791   deleting c4fdVMDMYv                                                                                     :0.000119
+15:58:05:791   type to delete OLEObject                                                                                :0.000667
+15:58:05:791   deleting 3M7PvuFREs                                                                                     :0.000106
+15:58:05:791   type to delete OLEObject                                                                                :0.000539
+15:58:05:791   deleting xYiF0FSEtP                                                                                     :0.000086
+15:58:05:791   type to delete OLEObject                                                                                :0.000358
+15:58:05:791   deleting ah997OUgy7                                                                                     :0.000100
+15:58:05:791   type to delete OLEObject                                                                                :0.000467
+15:58:05:791   deleting GyiYesjU0D                                                                                     :0.000105
+15:58:05:791   type to delete OLEObject                                                                                :0.000461
+15:58:05:791   deleting O3CjtWCgc/                                                                                     :0.000095
+15:58:05:791   type to delete OLEObject                                                                                :0.000405
+15:58:05:791   deleting vZEfzzfM4U                                                                                     :0.000084
+15:58:05:791   type to delete OLEObject                                                                                :0.000471
+15:58:05:791   deleting l/sfqJgF7h                                                                                     :0.000085
+15:58:05:791   type to delete OLEObject                                                                                :0.000480
+15:58:05:796   deleting lzj2wKMMc/                                                                                     :0.000113
+15:58:05:796   type to delete OLEObject                                                                                :0.000390
+15:58:05:796   deleting QoIiXrE8RD                                                                                     :0.000086
+15:58:05:796   type to delete OLEObject                                                                                :0.000389
+15:58:05:796   deleting iODdI8qW8B                                                                                     :0.000083
+15:58:05:796   type to delete OLEObject                                                                                :0.000405
+15:58:05:796   deleting Lo1SX2ARRJ                                                                                     :0.000122
+15:58:05:796   type to delete OLEObject                                                                                :0.000400
+15:58:05:796   deleting dmCCjzXXbf                                                                                     :0.000083
+15:58:05:796  cBlockDiagram.cleanUp:  END                                                                              :0.077876
+15:58:05:796  cBlockDiagram.loadElements:  START
+15:58:05:796   Rectangle 157 0                                                                                         :0.000652
+15:58:05:796   cBlockDiagramBlock.Rectangle:  START
+15:58:05:796    Stock Data.applyLabel:  START
+15:58:05:796     HashIt.BASE64SHA1:  START
+15:58:05:826     HashIt.BASE64SHA1:  END                                                                               :0.029775
+15:58:05:861     HashIt.BASE64SHA1:  START
+15:58:05:861     HashIt.BASE64SHA1:  END                                                                               :0.000468
+15:58:05:861    Stock Data.applyLabel:  END: wVWwIUmqRt                                                                :0.064707
+15:58:05:861   cBlockDiagramBlock.Rectangle:  END: Stock Data                                                          :0.065682
+15:58:05:861   Stock Data loaded in mElements                                                                          :0.066323
+15:58:05:861   Rectangle 32 0                                                                                          :0.000067
+15:58:05:866   cBlockDiagramBlock.Rectangle:  START
+15:58:05:866    Stock Data Re-order Point.applyLabel:  START
+15:58:05:866     HashIt.BASE64SHA1:  START
+15:58:05:866     HashIt.BASE64SHA1:  END                                                                               :0.000368
+15:58:05:891     HashIt.BASE64SHA1:  START
+15:58:05:891     HashIt.BASE64SHA1:  END                                                                               :0.000584
+15:58:05:891    Stock Data Re-order Point.applyLabel:  END: Label1                                                     :0.028865
+15:58:05:896   cBlockDiagramBlock.Rectangle:  END: Stock Data Re-order Point                                           :0.030402
+15:58:05:896   Stock Data Re-order Point loaded in mElements                                                           :0.031407
+15:58:05:896   Rectangle 62 0                                                                                          :0.000067
+15:58:05:896   cBlockDiagramBlock.Rectangle:  START
+15:58:05:896    Stock Data MOQ.applyLabel:  START
+15:58:05:896     HashIt.BASE64SHA1:  START
+15:58:05:896     HashIt.BASE64SHA1:  END                                                                               :0.000361
+15:58:05:921     HashIt.BASE64SHA1:  START
+15:58:05:926     HashIt.BASE64SHA1:  END                                                                               :0.000448
+15:58:05:926    Stock Data MOQ.applyLabel:  END: C7thpNeAx4                                                            :0.027908
+15:58:05:926   cBlockDiagramBlock.Rectangle:  END: Stock Data MOQ                                                      :0.029376
+15:58:05:926   Stock Data MOQ loaded in mElements                                                                      :0.030363
+15:58:05:926   Rectangle 63 0                                                                                          :0.000067
+15:58:05:926   cBlockDiagramBlock.Rectangle:  START
+15:58:05:926    Stock Data Target Stock.applyLabel:  START
+15:58:05:926     HashIt.BASE64SHA1:  START
+15:58:05:926     HashIt.BASE64SHA1:  END                                                                               :0.000344
+15:58:05:961     HashIt.BASE64SHA1:  START
+15:58:05:961     HashIt.BASE64SHA1:  END                                                                               :0.000471
+15:58:05:961    Stock Data Target Stock.applyLabel:  END: Bsl7mZaQQe                                                   :0.035732
+15:58:05:961   cBlockDiagramBlock.Rectangle:  END: Stock Data Target Stock                                             :0.037100
+15:58:05:966   Stock Data Target Stock loaded in mElements                                                             :0.038193
+15:58:05:966   Rectangle 61 0                                                                                          :0.000070
+15:58:05:966   cBlockDiagramBlock.Rectangle:  START
+15:58:05:966    ROP (re-order ppoint).applyLabel:  START
+15:58:05:966     HashIt.BASE64SHA1:  START
+15:58:05:966     HashIt.BASE64SHA1:  END                                                                               :0.000363
+15:58:05:991     HashIt.BASE64SHA1:  START
+15:58:05:991     HashIt.BASE64SHA1:  END                                                                               :0.000488
+15:58:05:991    ROP (re-order ppoint).applyLabel:  END: fl4wZzh3R9                                                     :0.028802
+15:58:05:991   cBlockDiagramBlock.Rectangle:  END: ROP (re-order ppoint)                                               :0.029609
+15:58:05:996   ROP (re-order ppoint) loaded in mElements                                                               :0.030524
+15:58:05:996   Rectangle 10 0                                                                                          :0.000115
+15:58:05:996   cBlockDiagramBlock.Rectangle:  START
+15:58:05:996    Stock Purchase n-1.applyLabel:  START
+15:58:05:996     HashIt.BASE64SHA1:  START
+15:58:05:996     HashIt.BASE64SHA1:  END                                                                               :0.000416
+15:58:06:026     HashIt.BASE64SHA1:  START
+15:58:06:026     HashIt.BASE64SHA1:  END                                                                               :0.000499
+15:58:06:026    Stock Purchase n-1.applyLabel:  END: Label2                                                            :0.030022
+15:58:06:026   cBlockDiagramBlock.Rectangle:  END: Stock Purchase n-1                                                  :0.031958
+15:58:06:026   Stock Purchase n-1 loaded in mElements                                                                  :0.033136
+15:58:06:026   Rectangle 9 0                                                                                           :0.000066
+15:58:06:026   cBlockDiagramBlock.Rectangle:  START
+15:58:06:031    Stock Purchase n.applyLabel:  START
+15:58:06:031     HashIt.BASE64SHA1:  START
+15:58:06:031     HashIt.BASE64SHA1:  END                                                                               :0.000336
+15:58:06:056     HashIt.BASE64SHA1:  START
+15:58:06:056     HashIt.BASE64SHA1:  END                                                                               :0.000526
+15:58:06:056    Stock Purchase n.applyLabel:  END: JomONTdEpO                                                          :0.028973
+15:58:06:056   cBlockDiagramBlock.Rectangle:  END: Stock Purchase n                                                    :0.030392
+15:58:06:061   Stock Purchase n loaded in mElements                                                                    :0.031582
+15:58:06:061   Rectangle 39 0                                                                                          :0.000070
+15:58:06:061   cBlockDiagramBlock.Rectangle:  START
+15:58:06:061    Costs and provisions n.applyLabel:  START
+15:58:06:061     HashIt.BASE64SHA1:  START
+15:58:06:061     HashIt.BASE64SHA1:  END                                                                               :0.000367
+15:58:06:086     HashIt.BASE64SHA1:  START
+15:58:06:086     HashIt.BASE64SHA1:  END                                                                               :0.000595
+15:58:06:091    Costs and provisions n.applyLabel:  END: Label3                                                        :0.028195
+15:58:06:091   cBlockDiagramBlock.Rectangle:  END: Costs and provisions n                                              :0.029653
+15:58:06:091   Costs and provisions n loaded in mElements                                                              :0.030700
+15:58:06:091   Rectangle 1 0                                                                                           :0.000068
+15:58:06:091   cBlockDiagramBlock.Rectangle:  START
+15:58:06:091    Proposed COS n.applyLabel:  START
+15:58:06:091     HashIt.BASE64SHA1:  START
+15:58:06:091     HashIt.BASE64SHA1:  END                                                                               :0.000365
+15:58:06:116     HashIt.BASE64SHA1:  START
+15:58:06:121     HashIt.BASE64SHA1:  END                                                                               :0.000584
+15:58:06:121    Proposed COS n.applyLabel:  END: nWNAZ19HwP                                                            :0.028348
+15:58:06:121   cBlockDiagramBlock.Rectangle:  END: Proposed COS n                                                      :0.029660
+15:58:06:121   Proposed COS n loaded in mElements                                                                      :0.030848
+15:58:06:121   Rectangle 2 0                                                                                           :0.000067
+15:58:06:121   cBlockDiagramBlock.Rectangle:  START
+15:58:06:121    Proposed Stock Purchase n.applyLabel:  START
+15:58:06:121     HashIt.BASE64SHA1:  START
+15:58:06:121     HashIt.BASE64SHA1:  END                                                                               :0.000371
+15:58:06:146     HashIt.BASE64SHA1:  START
+15:58:06:151     HashIt.BASE64SHA1:  END                                                                               :0.000539
+15:58:06:151    Proposed Stock Purchase n.applyLabel:  END: b10HgL8BWg                                                 :0.027486
+15:58:06:151   cBlockDiagramBlock.Rectangle:  END: Proposed Stock Purchase n                                           :0.028753
+15:58:06:151   Proposed Stock Purchase n loaded in mElements                                                           :0.029682
+15:58:06:151   Rectangle 3 0                                                                                           :0.000068
+15:58:06:151   cBlockDiagramBlock.Rectangle:  START
+15:58:06:151    Proposed COS n-1.applyLabel:  START
+15:58:06:151     HashIt.BASE64SHA1:  START
+15:58:06:151     HashIt.BASE64SHA1:  END                                                                               :0.000361
+15:58:06:176     HashIt.BASE64SHA1:  START
+15:58:06:176     HashIt.BASE64SHA1:  END                                                                               :0.000534
+15:58:06:176    Proposed COS n-1.applyLabel:  END: nQ6Jnk1MZ3                                                          :0.026456
+15:58:06:181   cBlockDiagramBlock.Rectangle:  END: Proposed COS n-1                                                    :0.027784
+15:58:06:181   Proposed COS n-1 loaded in mElements                                                                    :0.028862
+15:58:06:181   Curved Connector 4 3                                                                                    :0.000065
+15:58:06:181   loading Curved Connector 4 in mElements                                                                 :0.000038
+15:58:06:181   Rectangle 5 0                                                                                           :0.000217
+15:58:06:181   cBlockDiagramBlock.Rectangle:  START
+15:58:06:181    Opening stock n.applyLabel:  START
+15:58:06:181     HashIt.BASE64SHA1:  START
+15:58:06:181     HashIt.BASE64SHA1:  END                                                                               :0.000355
+15:58:06:211     HashIt.BASE64SHA1:  START
+15:58:06:211     HashIt.BASE64SHA1:  END                                                                               :0.000473
+15:58:06:211    Opening stock n.applyLabel:  END: ZPZp6MKkqs                                                           :0.029440
+15:58:06:211   cBlockDiagramBlock.Rectangle:  END: Opening stock n                                                     :0.030768
+15:58:06:211   Opening stock n loaded in mElements                                                                     :0.031803
+15:58:06:211   Rectangle 6 0                                                                                           :0.000067
+15:58:06:211   cBlockDiagramBlock.Rectangle:  START
+15:58:06:211    Opening stock n-3.applyLabel:  START
+15:58:06:211     HashIt.BASE64SHA1:  START
+15:58:06:216     HashIt.BASE64SHA1:  END                                                                               :0.000392
+15:58:06:241     HashIt.BASE64SHA1:  START
+15:58:06:241     HashIt.BASE64SHA1:  END                                                                               :0.000462
+15:58:06:241    Opening stock n-3.applyLabel:  END: IDKZP39s5U                                                         :0.028361
+15:58:06:241   cBlockDiagramBlock.Rectangle:  END: Opening stock n-3                                                   :0.029652
+15:58:06:241   Opening stock n-3 loaded in mElements                                                                   :0.030693
+15:58:06:241   Curved Connector 7 3                                                                                    :0.000063
+15:58:06:241   loading Curved Connector 7 in mElements                                                                 :0.000037
+15:58:06:241   Rectangle 8 0                                                                                           :0.000206
+15:58:06:241   cBlockDiagramBlock.Rectangle:  START
+15:58:06:246    Available cash n.applyLabel:  START
+15:58:06:246     HashIt.BASE64SHA1:  START
+15:58:06:246     HashIt.BASE64SHA1:  END                                                                               :0.000373
+15:58:06:271     HashIt.BASE64SHA1:  START
+15:58:06:271     HashIt.BASE64SHA1:  END                                                                               :0.000444
+15:58:06:271    Available cash n.applyLabel:  END: HMBzYHYQ7o                                                          :0.028080
+15:58:06:271   cBlockDiagramBlock.Rectangle:  END: Available cash n                                                    :0.029627
+15:58:06:276   Available cash n loaded in mElements                                                                    :0.030761
+15:58:06:276   Curved Connector 11 3                                                                                   :0.000070
+15:58:06:276   loading Curved Connector 11 in mElements                                                                :0.000038
+15:58:06:276   Curved Connector 12 3                                                                                   :0.000197
+15:58:06:276   loading Curved Connector 12 in mElements                                                                :0.000041
+15:58:06:276   Rectangle 13 0                                                                                          :0.000174
+15:58:06:276   cBlockDiagramBlock.Rectangle:  START
+15:58:06:276    Actual COS n.applyLabel:  START
+15:58:06:276     HashIt.BASE64SHA1:  START
+15:58:06:276     HashIt.BASE64SHA1:  END                                                                               :0.000370
+15:58:06:306     HashIt.BASE64SHA1:  START
+15:58:06:306     HashIt.BASE64SHA1:  END                                                                               :0.000470
+15:58:06:306    Actual COS n.applyLabel:  END: Label4                                                                  :0.029411
+15:58:06:306   cBlockDiagramBlock.Rectangle:  END: Actual COS n                                                        :0.030934
+15:58:06:306   Actual COS n loaded in mElements                                                                        :0.031971
+15:58:06:306   Rectangle 14 0                                                                                          :0.000067
+15:58:06:306   cBlockDiagramBlock.Rectangle:  START
+15:58:06:306    Actual COS n-1.applyLabel:  START
+15:58:06:306     HashIt.BASE64SHA1:  START
+15:58:06:306     HashIt.BASE64SHA1:  END                                                                               :0.000335
+15:58:06:336     HashIt.BASE64SHA1:  START
+15:58:06:336     HashIt.BASE64SHA1:  END                                                                               :0.000490
+15:58:06:336    Actual COS n-1.applyLabel:  END: zm7LI5UpF5                                                            :0.030043
+15:58:06:336   cBlockDiagramBlock.Rectangle:  END: Actual COS n-1                                                      :0.031338
+15:58:06:341   Actual COS n-1 loaded in mElements                                                                      :0.032561
+15:58:06:341   Curved Connector 15 3                                                                                   :0.000076
+15:58:06:341   loading Curved Connector 15 in mElements                                                                :0.000044
+15:58:06:341   Curved Connector 16 3                                                                                   :0.000220
+15:58:06:341   loading Curved Connector 16 in mElements                                                                :0.000048
+15:58:06:341   Curved Connector 17 3                                                                                   :0.000195
+15:58:06:341   loading Curved Connector 17 in mElements                                                                :0.000046
+15:58:06:341   Curved Connector 18 3                                                                                   :0.000193
+15:58:06:341   loading Curved Connector 18 in mElements                                                                :0.000037
+15:58:06:341   Curved Connector 19 3                                                                                   :0.000155
+15:58:06:341   loading Curved Connector 19 in mElements                                                                :0.000039
+15:58:06:341   Rectangle 20 0                                                                                          :0.000161
+15:58:06:341   cBlockDiagramBlock.Rectangle:  START
+15:58:06:341    Actual Sales n.applyLabel:  START
+15:58:06:341     HashIt.BASE64SHA1:  START
+15:58:06:341     HashIt.BASE64SHA1:  END                                                                               :0.000412
+15:58:06:371     HashIt.BASE64SHA1:  START
+15:58:06:371     HashIt.BASE64SHA1:  END                                                                               :0.000586
+15:58:06:371    Actual Sales n.applyLabel:  END: Label5                                                                :0.029391
+15:58:06:371   cBlockDiagramBlock.Rectangle:  END: Actual Sales n                                                      :0.030876
+15:58:06:371   Actual Sales n loaded in mElements                                                                      :0.031935
+15:58:06:371   Curved Connector 21 3                                                                                   :0.000062
+15:58:06:371   loading Curved Connector 21 in mElements                                                                :0.000037
+15:58:06:371   Curved Connector 22 3                                                                                   :0.000189
+15:58:06:371   loading Curved Connector 22 in mElements                                                                :0.000041
+15:58:06:371   Rectangle 23 0                                                                                          :0.000172
+15:58:06:371   cBlockDiagramBlock.Rectangle:  START
+15:58:06:371    Proposed COS.applyLabel:  START
+15:58:06:376     HashIt.BASE64SHA1:  START
+15:58:06:376     HashIt.BASE64SHA1:  END                                                                               :0.000394
+15:58:06:401     HashIt.BASE64SHA1:  START
+15:58:06:401     HashIt.BASE64SHA1:  END                                                                               :0.000565
+15:58:06:401    Proposed COS.applyLabel:  END: Label6                                                                  :0.029200
+15:58:06:401   cBlockDiagramBlock.Rectangle:  END: Proposed COS                                                        :0.029920
+15:58:06:406   Proposed COS loaded in mElements                                                                        :0.030539
+15:58:06:406   Rectangle 24 0                                                                                          :0.000084
+15:58:06:406   cBlockDiagramBlock.Rectangle:  START
+15:58:06:406    Proposed Stock Purchase.applyLabel:  START
+15:58:06:406     HashIt.BASE64SHA1:  START
+15:58:06:406     HashIt.BASE64SHA1:  END                                                                               :0.000328
+15:58:06:431     HashIt.BASE64SHA1:  START
+15:58:06:431     HashIt.BASE64SHA1:  END                                                                               :0.000484
+15:58:06:431    Proposed Stock Purchase.applyLabel:  END: LVj1AUT9EN                                                   :0.029248
+15:58:06:436   cBlockDiagramBlock.Rectangle:  END: Proposed Stock Purchase                                             :0.030009
+15:58:06:436   Proposed Stock Purchase loaded in mElements                                                             :0.030628
+15:58:06:436   Rectangle 26 0                                                                                          :0.000062
+15:58:06:436   cBlockDiagramBlock.Rectangle:  START
+15:58:06:436    Product Data final sales.applyLabel:  START
+15:58:06:436     HashIt.BASE64SHA1:  START
+15:58:06:436     HashIt.BASE64SHA1:  END                                                                               :0.000343
+15:58:06:466     HashIt.BASE64SHA1:  START
+15:58:06:466     HashIt.BASE64SHA1:  END                                                                               :0.000503
+15:58:06:466    Product Data final sales.applyLabel:  END: dZSBjhnmaJ                                                  :0.029336
+15:58:06:466   cBlockDiagramBlock.Rectangle:  END: Product Data final sales                                            :0.030747
+15:58:06:466   Product Data final sales loaded in mElements                                                            :0.031789
+15:58:06:466   Rectangle 27 0                                                                                          :0.000067
+15:58:06:466   cBlockDiagramBlock.Rectangle:  START
+15:58:06:466    Product Data time const.applyLabel:  START
+15:58:06:466     HashIt.BASE64SHA1:  START
+15:58:06:466     HashIt.BASE64SHA1:  END                                                                               :0.000338
+15:58:06:496     HashIt.BASE64SHA1:  START
+15:58:06:496     HashIt.BASE64SHA1:  END                                                                               :0.000450
+15:58:06:496    Product Data time const.applyLabel:  END: Label7                                                       :0.028722
+15:58:06:496   cBlockDiagramBlock.Rectangle:  END: Product Data time const                                             :0.029994
+15:58:06:496   Product Data time const loaded in mElements                                                             :0.031021
+15:58:06:496   Rectangle 28 0                                                                                          :0.000069
+15:58:06:496   cBlockDiagramBlock.Rectangle:  START
+15:58:06:496    Product Data initial sales.applyLabel:  START
+15:58:06:501     HashIt.BASE64SHA1:  START
+15:58:06:501     HashIt.BASE64SHA1:  END                                                                               :0.000321
+15:58:06:526     HashIt.BASE64SHA1:  START
+15:58:06:526     HashIt.BASE64SHA1:  END                                                                               :0.000538
+15:58:06:526    Product Data initial sales.applyLabel:  END: hov3Xwjssk                                                :0.028968
+15:58:06:526   cBlockDiagramBlock.Rectangle:  END: Product Data initial sales                                          :0.030239
+15:58:06:531   Product Data initial sales loaded in mElements                                                          :0.031317
+15:58:06:531   Curved Connector 29 3                                                                                   :0.000063
+15:58:06:531   loading Curved Connector 29 in mElements                                                                :0.000038
+15:58:06:531   Curved Connector 30 3                                                                                   :0.000187
+15:58:06:531   loading Curved Connector 30 in mElements                                                                :0.000041
+15:58:06:531   Curved Connector 31 3                                                                                   :0.000166
+15:58:06:531   loading Curved Connector 31 in mElements                                                                :0.000040
+15:58:06:531   Curved Connector 33 3                                                                                   :0.000165
+15:58:06:531   loading Curved Connector 33 in mElements                                                                :0.000039
+15:58:06:531   Curved Connector 34 3                                                                                   :0.000161
+15:58:06:531   loading Curved Connector 34 in mElements                                                                :0.000040
+15:58:06:531   Curved Connector 35 3                                                                                   :0.000161
+15:58:06:531   loading Curved Connector 35 in mElements                                                                :0.000040
+15:58:06:531   Rectangle 36 0                                                                                          :0.000167
+15:58:06:531   cBlockDiagramBlock.Rectangle:  START
+15:58:06:531    Reserves n.applyLabel:  START
+15:58:06:531     HashIt.BASE64SHA1:  START
+15:58:06:531     HashIt.BASE64SHA1:  END                                                                               :0.000320
+15:58:06:556     HashIt.BASE64SHA1:  START
+15:58:06:556     HashIt.BASE64SHA1:  END                                                                               :0.000593
+15:58:06:561    Reserves n.applyLabel:  END: maXZ1dKYiQ                                                                :0.027461
+15:58:06:561   cBlockDiagramBlock.Rectangle:  END: Reserves n                                                          :0.028790
+15:58:06:561   Reserves n loaded in mElements                                                                          :0.029819
+15:58:06:561   Curved Connector 37 3                                                                                   :0.000062
+15:58:06:561   loading Curved Connector 37 in mElements                                                                :0.000037
+15:58:06:561   Rectangle 38 0                                                                                          :0.000194
+15:58:06:561   cBlockDiagramBlock.Rectangle:  START
+15:58:06:561    Budget COS n.applyLabel:  START
+15:58:06:561     HashIt.BASE64SHA1:  START
+15:58:06:561     HashIt.BASE64SHA1:  END                                                                               :0.000345
+15:58:06:591     HashIt.BASE64SHA1:  START
+15:58:06:591     HashIt.BASE64SHA1:  END                                                                               :0.000589
+15:58:06:591    Budget COS n.applyLabel:  END: Gb9AdivjZX                                                              :0.028665
+15:58:06:591   cBlockDiagramBlock.Rectangle:  END: Budget COS n                                                        :0.029992
+15:58:06:591   Budget COS n loaded in mElements                                                                        :0.031030
+15:58:06:591   Curved Connector 40 3                                                                                   :0.000066
+15:58:06:591   loading Curved Connector 40 in mElements                                                                :0.000038
+15:58:06:591   Curved Connector 41 3                                                                                   :0.000190
+15:58:06:591   loading Curved Connector 41 in mElements                                                                :0.000041
+15:58:06:591   Rectangle 42 0                                                                                          :0.000174
+15:58:06:591   cBlockDiagramBlock.Rectangle:  START
+15:58:06:591    Reserves n-1.applyLabel:  START
+15:58:06:591     HashIt.BASE64SHA1:  START
+15:58:06:596     HashIt.BASE64SHA1:  END                                                                               :0.000400
+15:58:06:621     HashIt.BASE64SHA1:  START
+15:58:06:621     HashIt.BASE64SHA1:  END                                                                               :0.000458
+15:58:06:621    Reserves n-1.applyLabel:  END: G2Vk4Q1RyE                                                              :0.027636
+15:58:06:621   cBlockDiagramBlock.Rectangle:  END: Reserves n-1                                                        :0.028981
+15:58:06:621   Reserves n-1 loaded in mElements                                                                        :0.030030
+15:58:06:621   Curved Connector 43 3                                                                                   :0.000062
+15:58:06:621   loading Curved Connector 43 in mElements                                                                :0.000037
+15:58:06:621   Curved Connector 44 3                                                                                   :0.000190
+15:58:06:621   loading Curved Connector 44 in mElements                                                                :0.000040
+15:58:06:621   Curved Connector 45 3                                                                                   :0.000168
+15:58:06:621   loading Curved Connector 45 in mElements                                                                :0.000040
+15:58:06:621   Curved Connector 46 3                                                                                   :0.000165
+15:58:06:621   loading Curved Connector 46 in mElements                                                                :0.000040
+15:58:06:621   Curved Connector 47 3                                                                                   :0.000163
+15:58:06:621   loading Curved Connector 47 in mElements                                                                :0.000040
+15:58:06:621   Curved Connector 48 3                                                                                   :0.000162
+15:58:06:621   loading Curved Connector 48 in mElements                                                                :0.000041
+15:58:06:626   Rectangle 49 0                                                                                          :0.000189
+15:58:06:626   cBlockDiagramBlock.Rectangle:  START
+15:58:06:626    ROP (re-order ppoint) n.applyLabel:  START
+15:58:06:626     HashIt.BASE64SHA1:  START
+15:58:06:626     HashIt.BASE64SHA1:  END                                                                               :0.000350
+15:58:06:651     HashIt.BASE64SHA1:  START
+15:58:06:651     HashIt.BASE64SHA1:  END                                                                               :0.000604
+15:58:06:651    ROP (re-order ppoint) n.applyLabel:  END: XfdiDp74c5                                                   :0.027783
+15:58:06:651   cBlockDiagramBlock.Rectangle:  END: ROP (re-order ppoint) n                                             :0.029184
+15:58:06:656   ROP (re-order ppoint) n loaded in mElements                                                             :0.030357
+15:58:06:656   Curved Connector 50 3                                                                                   :0.000065
+15:58:06:656   loading Curved Connector 50 in mElements                                                                :0.000036
+15:58:06:656   Rectangle 52 0                                                                                          :0.000190
+15:58:06:656   cBlockDiagramBlock.Rectangle:  START
+15:58:06:656    Budget COS.applyLabel:  START
+15:58:06:656     HashIt.BASE64SHA1:  START
+15:58:06:656     HashIt.BASE64SHA1:  END                                                                               :0.000357
+15:58:06:681     HashIt.BASE64SHA1:  START
+15:58:06:681     HashIt.BASE64SHA1:  END                                                                               :0.000551
+15:58:06:681    Budget COS.applyLabel:  END: v1tbOjyZNZ                                                                :0.027203
+15:58:06:681   cBlockDiagramBlock.Rectangle:  END: Budget COS                                                          :0.027934
+15:58:06:681   Budget COS loaded in mElements                                                                          :0.028542
+15:58:06:681   Rectangle 53 0                                                                                          :0.000062
+15:58:06:681   cBlockDiagramBlock.Rectangle:  START
+15:58:06:681    Opening stock.applyLabel:  START
+15:58:06:686     HashIt.BASE64SHA1:  START
+15:58:06:686     HashIt.BASE64SHA1:  END                                                                               :0.000307
+15:58:06:711     HashIt.BASE64SHA1:  START
+15:58:06:711     HashIt.BASE64SHA1:  END                                                                               :0.000555
+15:58:06:711    Opening stock.applyLabel:  END: Label8                                                                 :0.028451
+15:58:06:711   cBlockDiagramBlock.Rectangle:  END: Opening stock                                                       :0.029192
+15:58:06:711   Opening stock loaded in mElements                                                                       :0.029826
+15:58:06:711   Rectangle 55 0                                                                                          :0.000062
+15:58:06:711   cBlockDiagramBlock.Rectangle:  START
+15:58:06:711    Available cash.applyLabel:  START
+15:58:06:716     HashIt.BASE64SHA1:  START
+15:58:06:716     HashIt.BASE64SHA1:  END                                                                               :0.000332
+15:58:06:741     HashIt.BASE64SHA1:  START
+15:58:06:741     HashIt.BASE64SHA1:  END                                                                               :0.000516
+15:58:06:741    Available cash.applyLabel:  END: Label9                                                                :0.027785
+15:58:06:741   cBlockDiagramBlock.Rectangle:  END: Available cash                                                      :0.028531
+15:58:06:741   Available cash loaded in mElements                                                                      :0.029171
+15:58:06:741   Rectangle 56 0                                                                                          :0.000063
+15:58:06:741   cBlockDiagramBlock.Rectangle:  START
+15:58:06:741    Actual COS.applyLabel:  START
+15:58:06:741     HashIt.BASE64SHA1:  START
+15:58:06:741     HashIt.BASE64SHA1:  END                                                                               :0.000299
+15:58:06:771     HashIt.BASE64SHA1:  START
+15:58:06:771     HashIt.BASE64SHA1:  END                                                                               :0.000507
+15:58:06:771    Actual COS.applyLabel:  END: c4fdVMDMYv                                                                :0.028706
+15:58:06:771   cBlockDiagramBlock.Rectangle:  END: Actual COS                                                          :0.029458
+15:58:06:771   Actual COS loaded in mElements                                                                          :0.030055
+15:58:06:771   Rectangle 57 0                                                                                          :0.000066
+15:58:06:771   cBlockDiagramBlock.Rectangle:  START
+15:58:06:771    Actual Sales.applyLabel:  START
+15:58:06:771     HashIt.BASE64SHA1:  START
+15:58:06:771     HashIt.BASE64SHA1:  END                                                                               :0.000306
+15:58:06:801     HashIt.BASE64SHA1:  START
+15:58:06:801     HashIt.BASE64SHA1:  END                                                                               :0.000579
+15:58:06:801    Actual Sales.applyLabel:  END: Label10                                                                 :0.028491
+15:58:06:801   cBlockDiagramBlock.Rectangle:  END: Actual Sales                                                        :0.029231
+15:58:06:801   Actual Sales loaded in mElements                                                                        :0.029865
+15:58:06:801   Rectangle 58 0                                                                                          :0.000062
+15:58:06:801   cBlockDiagramBlock.Rectangle:  START
+15:58:06:801    Costs and provisions.applyLabel:  START
+15:58:06:801     HashIt.BASE64SHA1:  START
+15:58:06:801     HashIt.BASE64SHA1:  END                                                                               :0.000338
+15:58:06:831     HashIt.BASE64SHA1:  START
+15:58:06:831     HashIt.BASE64SHA1:  END                                                                               :0.000421
+15:58:06:831    Costs and provisions.applyLabel:  END: xYiF0FSEtP                                                      :0.027710
+15:58:06:831   cBlockDiagramBlock.Rectangle:  END: Costs and provisions                                                :0.028435
+15:58:06:831   Costs and provisions loaded in mElements                                                                :0.029033
+15:58:06:831   Rectangle 59 0                                                                                          :0.000063
+15:58:06:831   cBlockDiagramBlock.Rectangle:  START
+15:58:06:831    Reserves.applyLabel:  START
+15:58:06:831     HashIt.BASE64SHA1:  START
+15:58:06:831     HashIt.BASE64SHA1:  END                                                                               :0.000307
+15:58:06:866     HashIt.BASE64SHA1:  START
+15:58:06:866     HashIt.BASE64SHA1:  END                                                                               :0.000566
+15:58:06:866    Reserves.applyLabel:  END: ah997OUgy7                                                                  :0.035629
+15:58:06:866   cBlockDiagramBlock.Rectangle:  END: Reserves                                                            :0.036360
+15:58:06:866   Reserves loaded in mElements                                                                            :0.036969
+15:58:06:866   Rectangle 68 0                                                                                          :0.000062
+15:58:06:866   cBlockDiagramBlock.Rectangle:  START
+15:58:06:871    Budget COS n-1.applyLabel:  START
+15:58:06:871     HashIt.BASE64SHA1:  START
+15:58:06:871     HashIt.BASE64SHA1:  END                                                                               :0.000397
+15:58:06:896     HashIt.BASE64SHA1:  START
+15:58:06:896     HashIt.BASE64SHA1:  END                                                                               :0.000552
+15:58:06:896    Budget COS n-1.applyLabel:  END: GyiYesjU0D                                                            :0.027495
+15:58:06:896   cBlockDiagramBlock.Rectangle:  END: Budget COS n-1                                                      :0.028917
+15:58:06:896   Budget COS n-1 loaded in mElements                                                                      :0.029942
+15:58:06:896   Rectangle 79 0                                                                                          :0.000068
+15:58:06:896   cBlockDiagramBlock.Rectangle:  START
+15:58:06:901    Weeks stock on hand.applyLabel:  START
+15:58:06:901     HashIt.BASE64SHA1:  START
+15:58:06:901     HashIt.BASE64SHA1:  END                                                                               :0.000338
+15:58:06:926     HashIt.BASE64SHA1:  START
+15:58:06:926     HashIt.BASE64SHA1:  END                                                                               :0.000532
+15:58:06:926    Weeks stock on hand.applyLabel:  END: Label11                                                          :0.027294
+15:58:06:926   cBlockDiagramBlock.Rectangle:  END: Weeks stock on hand                                                 :0.028081
+15:58:06:926   Weeks stock on hand loaded in mElements                                                                 :0.028647
+15:58:06:926   Rectangle 83 0                                                                                          :0.000070
+15:58:06:926   cBlockDiagramBlock.Rectangle:  START
+15:58:06:926    Weeks stock on hand n.applyLabel:  START
+15:58:06:931     HashIt.BASE64SHA1:  START
+15:58:06:931     HashIt.BASE64SHA1:  END                                                                               :0.000352
+15:58:06:956     HashIt.BASE64SHA1:  START
+15:58:06:956     HashIt.BASE64SHA1:  END                                                                               :0.000563
+15:58:06:956    Weeks stock on hand n.applyLabel:  END: vZEfzzfM4U                                                     :0.027677
+15:58:06:956   cBlockDiagramBlock.Rectangle:  END: Weeks stock on hand n                                               :0.029083
+15:58:06:956   Weeks stock on hand n loaded in mElements                                                               :0.030089
+15:58:06:956   Rectangle 84 0                                                                                          :0.000068
+15:58:06:956   cBlockDiagramBlock.Rectangle:  START
+15:58:06:956    Opening stock n-2.applyLabel:  START
+15:58:06:961     HashIt.BASE64SHA1:  START
+15:58:06:961     HashIt.BASE64SHA1:  END                                                                               :0.000337
+15:58:06:986     HashIt.BASE64SHA1:  START
+15:58:06:986     HashIt.BASE64SHA1:  END                                                                               :0.000527
+15:58:06:986    Opening stock n-2.applyLabel:  END: Label12                                                            :0.027341
+15:58:06:986   cBlockDiagramBlock.Rectangle:  END: Opening stock n-2                                                   :0.028654
+15:58:06:986   Opening stock n-2 loaded in mElements                                                                   :0.029709
+15:58:06:986   Rectangle 90 0                                                                                          :0.000068
+15:58:06:986   cBlockDiagramBlock.Rectangle:  START
+15:58:06:986    Actual COS n-2.applyLabel:  START
+15:58:06:986     HashIt.BASE64SHA1:  START
+15:58:06:991     HashIt.BASE64SHA1:  END                                                                               :0.000391
+15:58:07:016     HashIt.BASE64SHA1:  START
+15:58:07:016     HashIt.BASE64SHA1:  END                                                                               :0.000421
+15:58:07:016    Actual COS n-2.applyLabel:  END: Label13                                                               :0.027857
+15:58:07:016   cBlockDiagramBlock.Rectangle:  END: Actual COS n-2                                                      :0.029142
+15:58:07:016   Actual COS n-2 loaded in mElements                                                                      :0.030183
+15:58:07:016   Rectangle 91 0                                                                                          :0.000067
+15:58:07:016   cBlockDiagramBlock.Rectangle:  START
+15:58:07:016    Actual COS n-3.applyLabel:  START
+15:58:07:021     HashIt.BASE64SHA1:  START
+15:58:07:021     HashIt.BASE64SHA1:  END                                                                               :0.000350
+15:58:07:066     HashIt.BASE64SHA1:  START
+15:58:07:066     HashIt.BASE64SHA1:  END                                                                               :0.000471
+15:58:07:066    Actual COS n-3.applyLabel:  END: QoIiXrE8RD                                                            :0.049640
+15:58:07:066   cBlockDiagramBlock.Rectangle:  END: Actual COS n-3                                                      :0.050865
+15:58:07:071   Actual COS n-3 loaded in mElements                                                                      :0.051823
+15:58:07:071   Rectangle 92 0                                                                                          :0.000068
+15:58:07:071   cBlockDiagramBlock.Rectangle:  START
+15:58:07:071    Opening stock n-1.applyLabel:  START
+15:58:07:071     HashIt.BASE64SHA1:  START
+15:58:07:071     HashIt.BASE64SHA1:  END                                                                               :0.000354
+15:58:07:096     HashIt.BASE64SHA1:  START
+15:58:07:096     HashIt.BASE64SHA1:  END                                                                               :0.000445
+15:58:07:096    Opening stock n-1.applyLabel:  END: iODdI8qW8B                                                         :0.027735
+15:58:07:101   cBlockDiagramBlock.Rectangle:  END: Opening stock n-1                                                   :0.029076
+15:58:07:101   Opening stock n-1 loaded in mElements                                                                   :0.031258
+15:58:07:101   Curved Connector 97 3                                                                                   :0.000063
+15:58:07:101   loading Curved Connector 97 in mElements                                                                :0.000036
+15:58:07:101   Curved Connector 100 3                                                                                  :0.000204
+15:58:07:101   loading Curved Connector 100 in mElements                                                               :0.000039
+15:58:07:101   Curved Connector 103 3                                                                                  :0.000163
+15:58:07:101   loading Curved Connector 103 in mElements                                                               :0.000039
+15:58:07:101   Curved Connector 106 3                                                                                  :0.000160
+15:58:07:101   loading Curved Connector 106 in mElements                                                               :0.000038
+15:58:07:101   Curved Connector 109 3                                                                                  :0.000156
+15:58:07:101   loading Curved Connector 109 in mElements                                                               :0.000038
+15:58:07:101   Curved Connector 113 3                                                                                  :0.000164
+15:58:07:101   loading Curved Connector 113 in mElements                                                               :0.000036
+15:58:07:101   Curved Connector 117 3                                                                                  :0.000154
+15:58:07:101   loading Curved Connector 117 in mElements                                                               :0.000039
+15:58:07:101   Curved Connector 121 3                                                                                  :0.000153
+15:58:07:101   loading Curved Connector 121 in mElements                                                               :0.000038
+15:58:07:101   Rectangle 156 0                                                                                         :0.000157
+15:58:07:101   cBlockDiagramBlock.Rectangle:  START
+15:58:07:101    Product Data.applyLabel:  START
+15:58:07:101     HashIt.BASE64SHA1:  START
+15:58:07:106     HashIt.BASE64SHA1:  END                                                                               :0.000369
+15:58:07:131     HashIt.BASE64SHA1:  START
+15:58:07:131     HashIt.BASE64SHA1:  END                                                                               :0.000542
+15:58:07:131    Product Data.applyLabel:  END: Lo1SX2ARRJ                                                              :0.027029
+15:58:07:131   cBlockDiagramBlock.Rectangle:  END: Product Data                                                        :0.027803
+15:58:07:131   Product Data loaded in mElements                                                                        :0.028404
+15:58:07:131   Rectangle 54 0                                                                                          :0.000062
+15:58:07:131   cBlockDiagramBlock.Rectangle:  START
+15:58:07:131    Stock Purchase.applyLabel:  START
+15:58:07:131     HashIt.BASE64SHA1:  START
+15:58:07:131     HashIt.BASE64SHA1:  END                                                                               :0.000306
+15:58:07:156     HashIt.BASE64SHA1:  START
+15:58:07:156     HashIt.BASE64SHA1:  END                                                                               :0.000497
+15:58:07:156    Stock Purchase.applyLabel:  END: dmCCjzXXbf                                                            :0.026688
+15:58:07:161   cBlockDiagramBlock.Rectangle:  END: Stock Purchase                                                      :0.027450
+15:58:07:161   Stock Purchase loaded in mElements                                                                      :0.028093
+15:58:07:161  cBlockDiagram.loadElements:  END                                                                         :1.362822
+15:58:07:161  cBlockDiagram.linkElements:  START Elements :77
+15:58:07:161   Stock Data.addChild:  START
+15:58:07:161    Stock Data.addLink:  START
+15:58:07:161     First Element: Stock Data Re-order Point                                                              :0.000032
+15:58:07:161    Stock Data.addLink:  END: 1                                                                            :0.000096
+15:58:07:161   Stock Data.addChild:  END                                                                               :0.000523
+15:58:07:161   Stock Data.addChild:  START
+15:58:07:161    Stock Data.addLink:  START
+15:58:07:161    Stock Data.addLink:  END: 2                                                                            :0.000052
+15:58:07:161   Stock Data.addChild:  END                                                                               :0.000477
+15:58:07:166   Stock Data.addChild:  START
+15:58:07:166    Stock Data.addLink:  START
+15:58:07:166    Stock Data.addLink:  END: 3                                                                            :0.000054
+15:58:07:166   Stock Data.addChild:  END                                                                               :0.000491
+15:58:07:166   Stock Purchase.addChild:  START
+15:58:07:166    Stock Purchase.addLink:  START
+15:58:07:166     First Element: Stock Purchase n-1                                                                     :0.000031
+15:58:07:166    Stock Purchase.addLink:  END: 1                                                                        :0.000093
+15:58:07:166   Stock Purchase.addChild:  END                                                                           :0.000520
+15:58:07:166   Stock Purchase.addChild:  START
+15:58:07:166    Stock Purchase.addLink:  START
+15:58:07:166    Stock Purchase.addLink:  END: 2                                                                        :0.000052
+15:58:07:166   Stock Purchase.addChild:  END                                                                           :0.000477
+15:58:07:171   Costs and provisions.addChild:  START
+15:58:07:171    Costs and provisions.addLink:  START
+15:58:07:171     First Element: Costs and provisions n                                                                 :0.000031
+15:58:07:171    Costs and provisions.addLink:  END: 1                                                                  :0.000094
+15:58:07:171   Costs and provisions.addChild:  END                                                                     :0.000521
+15:58:07:171   Proposed COS.addChild:  START
+15:58:07:171    Proposed COS.addLink:  START
+15:58:07:171     First Element: Proposed COS n                                                                         :0.000031
+15:58:07:171    Proposed COS.addLink:  END: 1                                                                          :0.000095
+15:58:07:171   Proposed COS.addChild:  END                                                                             :0.000523
+15:58:07:171   Proposed Stock Purchase.addChild:  START
+15:58:07:171    Proposed Stock Purchase.addLink:  START
+15:58:07:171     First Element: Proposed Stock Purchase n                                                              :0.000031
+15:58:07:171    Proposed Stock Purchase.addLink:  END: 1                                                               :0.000093
+15:58:07:171   Proposed Stock Purchase.addChild:  END                                                                  :0.000518
+15:58:07:176   Proposed COS.addChild:  START
+15:58:07:176    Proposed COS.addLink:  START
+15:58:07:176    Proposed COS.addLink:  END: 2                                                                          :0.000054
+15:58:07:176   Proposed COS.addChild:  END                                                                             :0.000480
+15:58:07:176   Proposed COS n-1.addTail:  START
+15:58:07:176    Proposed COS n-1.addLink:  START
+15:58:07:176     First Element: Curved Connector 4                                                                     :0.000032
+15:58:07:176    Proposed COS n-1.addLink:  END: 1                                                                      :0.000093
+15:58:07:176   Proposed COS n-1.addTail:  END                                                                          :0.000890
+15:58:07:176   Proposed Stock Purchase n.addTail:  START
+15:58:07:176    Proposed Stock Purchase n.addLink:  START
+15:58:07:176     First Element: Curved Connector 4                                                                     :0.000032
+15:58:07:176    Proposed Stock Purchase n.addLink:  END: 1                                                             :0.000094
+15:58:07:176   Proposed Stock Purchase n.addTail:  END                                                                 :0.000895
+15:58:07:181   Opening stock.addChild:  START
+15:58:07:181    Opening stock.addLink:  START
+15:58:07:181     First Element: Opening stock n                                                                        :0.000032
+15:58:07:181    Opening stock.addLink:  END: 1                                                                         :0.000094
+15:58:07:181   Opening stock.addChild:  END                                                                            :0.000520
+15:58:07:181   Opening stock.addChild:  START
+15:58:07:181    Opening stock.addLink:  START
+15:58:07:181    Opening stock.addLink:  END: 2                                                                         :0.000052
+15:58:07:181   Opening stock.addChild:  END                                                                            :0.000477
+15:58:07:181   Opening stock n.addTail:  START
+15:58:07:181    Opening stock n.addLink:  START
+15:58:07:181     First Element: Curved Connector 7                                                                     :0.000031
+15:58:07:181    Opening stock n.addLink:  END: 1                                                                       :0.000093
+15:58:07:181   Opening stock n.addTail:  END                                                                           :0.000894
+15:58:07:186   Proposed Stock Purchase n.addTail:  START
+15:58:07:186    Proposed Stock Purchase n.addLink:  START
+15:58:07:186    Proposed Stock Purchase n.addLink:  END: 2                                                             :0.000053
+15:58:07:186   Proposed Stock Purchase n.addTail:  END                                                                 :0.000854
+15:58:07:186   Available cash.addChild:  START
+15:58:07:186    Available cash.addLink:  START
+15:58:07:186     First Element: Available cash n                                                                       :0.000032
+15:58:07:186    Available cash.addLink:  END: 1                                                                        :0.000092
+15:58:07:186   Available cash.addChild:  END                                                                           :0.000515
+15:58:07:186   Stock Purchase n-1.addTail:  START
+15:58:07:191    Stock Purchase n-1.addLink:  START
+15:58:07:191     First Element: Curved Connector 11                                                                    :0.000032
+15:58:07:191    Stock Purchase n-1.addLink:  END: 1                                                                    :0.000094
+15:58:07:191   Stock Purchase n-1.addTail:  END                                                                        :0.000920
+15:58:07:191   Opening stock n.addTail:  START
+15:58:07:191    Opening stock n.addLink:  START
+15:58:07:191     First Element: Curved Connector 11                                                                    :0.000032
+15:58:07:191    Opening stock n.addLink:  END: 1                                                                       :0.000094
+15:58:07:191   Opening stock n.addTail:  END                                                                           :0.000889
+15:58:07:191   Proposed Stock Purchase n.addTail:  START
+15:58:07:191    Proposed Stock Purchase n.addLink:  START
+15:58:07:191     First Element: Curved Connector 12                                                                    :0.000031
+15:58:07:191    Proposed Stock Purchase n.addLink:  END: 1                                                             :0.000093
+15:58:07:191   Proposed Stock Purchase n.addTail:  END                                                                 :0.000893
+15:58:07:196   Stock Purchase n.addTail:  START
+15:58:07:196    Stock Purchase n.addLink:  START
+15:58:07:196     First Element: Curved Connector 12                                                                    :0.000032
+15:58:07:196    Stock Purchase n.addLink:  END: 1                                                                      :0.000096
+15:58:07:196   Stock Purchase n.addTail:  END                                                                          :0.000901
+15:58:07:196   Actual COS.addChild:  START
+15:58:07:196    Actual COS.addLink:  START
+15:58:07:196     First Element: Actual COS n                                                                           :0.000031
+15:58:07:196    Actual COS.addLink:  END: 1                                                                            :0.000093
+15:58:07:196   Actual COS.addChild:  END                                                                               :0.000517
+15:58:07:196   Actual COS.addChild:  START
+15:58:07:201    Actual COS.addLink:  START
+15:58:07:201    Actual COS.addLink:  END: 2                                                                            :0.000062
+15:58:07:201   Actual COS.addChild:  END                                                                               :0.000485
+15:58:07:201   Opening stock n-1.addTail:  START
+15:58:07:201    Opening stock n-1.addLink:  START
+15:58:07:201     First Element: Curved Connector 15                                                                    :0.000032
+15:58:07:201    Opening stock n-1.addLink:  END: 1                                                                     :0.000096
+15:58:07:201   Opening stock n-1.addTail:  END                                                                         :0.000897
+15:58:07:201   Opening stock n.addTail:  START
+15:58:07:201    Opening stock n.addLink:  START
+15:58:07:201    Opening stock n.addLink:  END: 2                                                                       :0.000052
+15:58:07:201   Opening stock n.addTail:  END                                                                           :0.000850
+15:58:07:206   Actual COS n-1.addTail:  START
+15:58:07:206    Actual COS n-1.addLink:  START
+15:58:07:206     First Element: Curved Connector 16                                                                    :0.000031
+15:58:07:206    Actual COS n-1.addLink:  END: 1                                                                        :0.000094
+15:58:07:206   Actual COS n-1.addTail:  END                                                                            :0.000892
+15:58:07:206   Opening stock n.addTail:  START
+15:58:07:206    Opening stock n.addLink:  START
+15:58:07:206    Opening stock n.addLink:  END: 3                                                                       :0.000054
+15:58:07:206   Opening stock n.addTail:  END                                                                           :0.000851
+15:58:07:206   Opening stock n.addTail:  START
+15:58:07:211    Opening stock n.addLink:  START
+15:58:07:211    Opening stock n.addLink:  END: 2                                                                       :0.000053
+15:58:07:211   Opening stock n.addTail:  END                                                                           :0.000866
+15:58:07:211   Stock Purchase n.addTail:  START
+15:58:07:211    Stock Purchase n.addLink:  START
+15:58:07:211    Stock Purchase n.addLink:  END: 2                                                                      :0.000052
+15:58:07:211   Stock Purchase n.addTail:  END                                                                          :0.000850
+15:58:07:211   Proposed COS n.addTail:  START
+15:58:07:211    Proposed COS n.addLink:  START
+15:58:07:211     First Element: Curved Connector 18                                                                    :0.000031
+15:58:07:211    Proposed COS n.addLink:  END: 1                                                                        :0.000093
+15:58:07:211   Proposed COS n.addTail:  END                                                                            :0.000885
+15:58:07:216   Actual COS n.addTail:  START
+15:58:07:216    Actual COS n.addLink:  START
+15:58:07:216     First Element: Curved Connector 18                                                                    :0.000032
+15:58:07:216    Actual COS n.addLink:  END: 1                                                                          :0.000095
+15:58:07:216   Actual COS n.addTail:  END                                                                              :0.000901
+15:58:07:216   Opening stock n.addTail:  START
+15:58:07:216    Opening stock n.addLink:  START
+15:58:07:216    Opening stock n.addLink:  END: 3                                                                       :0.000053
+15:58:07:216   Opening stock n.addTail:  END                                                                           :0.000855
+15:58:07:216   Actual COS n.addTail:  START
+15:58:07:221    Actual COS n.addLink:  START
+15:58:07:221    Actual COS n.addLink:  END: 2                                                                          :0.000057
+15:58:07:221   Actual COS n.addTail:  END                                                                              :0.000909
+15:58:07:221   Actual Sales.addChild:  START
+15:58:07:221    Actual Sales.addLink:  START
+15:58:07:221     First Element: Actual Sales n                                                                         :0.000031
+15:58:07:221    Actual Sales.addLink:  END: 1                                                                          :0.000095
+15:58:07:221   Actual Sales.addChild:  END                                                                             :0.000522
+15:58:07:221   Actual COS n.addTail:  START
+15:58:07:221    Actual COS n.addLink:  START
+15:58:07:221     First Element: Curved Connector 21                                                                    :0.000031
+15:58:07:221    Actual COS n.addLink:  END: 1                                                                          :0.000094
+15:58:07:221   Actual COS n.addTail:  END                                                                              :0.000896
+15:58:07:226   Actual Sales n.addTail:  START
+15:58:07:226    Actual Sales n.addLink:  START
+15:58:07:226     First Element: Curved Connector 21                                                                    :0.000032
+15:58:07:226    Actual Sales n.addLink:  END: 1                                                                        :0.000094
+15:58:07:226   Actual Sales n.addTail:  END                                                                            :0.000895
+15:58:07:226   Budget COS n-1.addTail:  START
+15:58:07:226    Budget COS n-1.addLink:  START
+15:58:07:226     First Element: Curved Connector 22                                                                    :0.000031
+15:58:07:226    Budget COS n-1.addLink:  END: 1                                                                        :0.000094
+15:58:07:226   Budget COS n-1.addTail:  END                                                                            :0.000887
+15:58:07:226   Proposed Stock Purchase n.addTail:  START
+15:58:07:231    Proposed Stock Purchase n.addLink:  START
+15:58:07:231    Proposed Stock Purchase n.addLink:  END: 3                                                             :0.000056
+15:58:07:231   Proposed Stock Purchase n.addTail:  END                                                                 :0.000908
+15:58:07:231   Product Data.addChild:  START
+15:58:07:231    Product Data.addLink:  START
+15:58:07:231     First Element: Product Data final sales                                                               :0.000031
+15:58:07:231    Product Data.addLink:  END: 1                                                                          :0.000094
+15:58:07:231   Product Data.addChild:  END                                                                             :0.000518
+15:58:07:231   Product Data.addChild:  START
+15:58:07:231    Product Data.addLink:  START
+15:58:07:231    Product Data.addLink:  END: 2                                                                          :0.000052
+15:58:07:231   Product Data.addChild:  END                                                                             :0.000474
+15:58:07:231   Product Data.addChild:  START
+15:58:07:236    Product Data.addLink:  START
+15:58:07:236    Product Data.addLink:  END: 3                                                                          :0.000053
+15:58:07:236   Product Data.addChild:  END                                                                             :0.000489
+15:58:07:236   Product Data time const.addTail:  START
+15:58:07:236    Product Data time const.addLink:  START
+15:58:07:236     First Element: Curved Connector 29                                                                    :0.000032
+15:58:07:236    Product Data time const.addLink:  END: 1                                                               :0.000094
+15:58:07:236   Product Data time const.addTail:  END                                                                   :0.000885
+15:58:07:236   Budget COS n.addTail:  START
+15:58:07:236    Budget COS n.addLink:  START
+15:58:07:236     First Element: Curved Connector 29                                                                    :0.000031
+15:58:07:236    Budget COS n.addLink:  END: 1                                                                          :0.000092
+15:58:07:236   Budget COS n.addTail:  END                                                                              :0.000887
+15:58:07:241   Product Data final sales.addTail:  START
+15:58:07:241    Product Data final sales.addLink:  START
+15:58:07:241     First Element: Curved Connector 30                                                                    :0.000031
+15:58:07:241    Product Data final sales.addLink:  END: 1                                                              :0.000094
+15:58:07:241   Product Data final sales.addTail:  END                                                                  :0.000891
+15:58:07:241   Budget COS n.addTail:  START
+15:58:07:241    Budget COS n.addLink:  START
+15:58:07:241    Budget COS n.addLink:  END: 2                                                                          :0.000053
+15:58:07:241   Budget COS n.addTail:  END                                                                              :0.000848
+15:58:07:241   Product Data initial sales.addTail:  START
+15:58:07:246    Product Data initial sales.addLink:  START
+15:58:07:246     First Element: Curved Connector 31                                                                    :0.000034
+15:58:07:246    Product Data initial sales.addLink:  END: 1                                                            :0.000099
+15:58:07:246   Product Data initial sales.addTail:  END                                                                :0.000982
+15:58:07:246   Budget COS n.addTail:  START
+15:58:07:246    Budget COS n.addLink:  START
+15:58:07:246    Budget COS n.addLink:  END: 3                                                                          :0.000054
+15:58:07:246   Budget COS n.addTail:  END                                                                              :0.000853
+15:58:07:246   Stock Data Target Stock.addTail:  START
+15:58:07:246    Stock Data Target Stock.addLink:  START
+15:58:07:246     First Element: Curved Connector 33                                                                    :0.000032
+15:58:07:246    Stock Data Target Stock.addLink:  END: 1                                                               :0.000094
+15:58:07:246   Stock Data Target Stock.addTail:  END                                                                   :0.000895
+15:58:07:251   Proposed Stock Purchase n.addTail:  START
+15:58:07:251    Proposed Stock Purchase n.addLink:  START
+15:58:07:251    Proposed Stock Purchase n.addLink:  END: 4                                                             :0.000054
+15:58:07:251   Proposed Stock Purchase n.addTail:  END                                                                 :0.000857
+15:58:07:251   Stock Data MOQ.addTail:  START
+15:58:07:251    Stock Data MOQ.addLink:  START
+15:58:07:251     First Element: Curved Connector 34                                                                    :0.000031
+15:58:07:251    Stock Data MOQ.addLink:  END: 1                                                                        :0.000093
+15:58:07:251   Stock Data MOQ.addTail:  END                                                                            :0.000891
+15:58:07:251   Proposed Stock Purchase n.addTail:  START
+15:58:07:256    Proposed Stock Purchase n.addLink:  START
+15:58:07:256    Proposed Stock Purchase n.addLink:  END: 5                                                             :0.000059
+15:58:07:256   Proposed Stock Purchase n.addTail:  END                                                                 :0.000961
+15:58:07:256   Stock Data Re-order Point.addTail:  START
+15:58:07:256    Stock Data Re-order Point.addLink:  START
+15:58:07:256     First Element: Curved Connector 35                                                                    :0.000031
+15:58:07:256    Stock Data Re-order Point.addLink:  END: 1                                                             :0.000094
+15:58:07:256   Stock Data Re-order Point.addTail:  END                                                                 :0.000889
+15:58:07:256   ROP (re-order ppoint) n.addTail:  START
+15:58:07:256    ROP (re-order ppoint) n.addLink:  START
+15:58:07:256     First Element: Curved Connector 35                                                                    :0.000031
+15:58:07:256    ROP (re-order ppoint) n.addLink:  END: 1                                                               :0.000094
+15:58:07:256   ROP (re-order ppoint) n.addTail:  END                                                                   :0.000894
+15:58:07:261   Reserves.addChild:  START
+15:58:07:261    Reserves.addLink:  START
+15:58:07:261     First Element: Reserves n                                                                             :0.000032
+15:58:07:261    Reserves.addLink:  END: 1                                                                              :0.000098
+15:58:07:261   Reserves.addChild:  END                                                                                 :0.000528
+15:58:07:261   Budget COS n.addTail:  START
+15:58:07:261    Budget COS n.addLink:  START
+15:58:07:261     First Element: Curved Connector 37                                                                    :0.000031
+15:58:07:261    Budget COS n.addLink:  END: 1                                                                          :0.000092
+15:58:07:261   Budget COS n.addTail:  END                                                                              :0.000886
+15:58:07:261   Proposed COS n.addTail:  START
+15:58:07:266    Proposed COS n.addLink:  START
+15:58:07:266     First Element: Curved Connector 37                                                                    :0.000032
+15:58:07:266    Proposed COS n.addLink:  END: 1                                                                        :0.000092
+15:58:07:266   Proposed COS n.addTail:  END                                                                            :0.000911
+15:58:07:266   Budget COS.addChild:  START
+15:58:07:266    Budget COS.addLink:  START
+15:58:07:266     First Element: Budget COS n                                                                           :0.000030
+15:58:07:266    Budget COS.addLink:  END: 1                                                                            :0.000092
+15:58:07:266   Budget COS.addChild:  END                                                                               :0.000512
+15:58:07:266   Actual COS n.addTail:  START
+15:58:07:266    Actual COS n.addLink:  START
+15:58:07:266    Actual COS n.addLink:  END: 2                                                                          :0.000052
+15:58:07:266   Actual COS n.addTail:  END                                                                              :0.000848
+15:58:07:271   Reserves n.addTail:  START
+15:58:07:271    Reserves n.addLink:  START
+15:58:07:271     First Element: Curved Connector 40                                                                    :0.000032
+15:58:07:271    Reserves n.addLink:  END: 1                                                                            :0.000094
+15:58:07:271   Reserves n.addTail:  END                                                                                :0.000918
+15:58:07:271   Actual Sales n.addTail:  START
+15:58:07:271    Actual Sales n.addLink:  START
+15:58:07:271     First Element: Curved Connector 41                                                                    :0.000031
+15:58:07:271    Actual Sales n.addLink:  END: 1                                                                        :0.000090
+15:58:07:271   Actual Sales n.addTail:  END                                                                            :0.000887
+15:58:07:271   Reserves n.addTail:  START
+15:58:07:276    Reserves n.addLink:  START
+15:58:07:276    Reserves n.addLink:  END: 2                                                                            :0.000059
+15:58:07:276   Reserves n.addTail:  END                                                                                :0.001065
+15:58:07:276   Reserves.addChild:  START
+15:58:07:276    Reserves.addLink:  START
+15:58:07:276    Reserves.addLink:  END: 2                                                                              :0.000052
+15:58:07:276   Reserves.addChild:  END                                                                                 :0.000480
+15:58:07:276   Reserves n-1.addTail:  START
+15:58:07:276    Reserves n-1.addLink:  START
+15:58:07:276     First Element: Curved Connector 43                                                                    :0.000031
+15:58:07:276    Reserves n-1.addLink:  END: 1                                                                          :0.000095
+15:58:07:276   Reserves n-1.addTail:  END                                                                              :0.000891
+15:58:07:281   Available cash n.addTail:  START
+15:58:07:281    Available cash n.addLink:  START
+15:58:07:281     First Element: Curved Connector 43                                                                    :0.003214
+15:58:07:281    Available cash n.addLink:  END: 1                                                                      :0.003311
+15:58:07:281   Available cash n.addTail:  END                                                                          :0.004260
+15:58:07:286   Reserves n-1.addTail:  START
+15:58:07:286    Reserves n-1.addLink:  START
+15:58:07:286    Reserves n-1.addLink:  END: 2                                                                          :0.000057
+15:58:07:286   Reserves n-1.addTail:  END                                                                              :0.000928
+15:58:07:286   Reserves n.addTail:  START
+15:58:07:286    Reserves n.addLink:  START
+15:58:07:286    Reserves n.addLink:  END: 3                                                                            :0.000053
+15:58:07:286   Reserves n.addTail:  END                                                                                :0.000853
+15:58:07:291   Budget COS n.addTail:  START
+15:58:07:291    Budget COS n.addLink:  START
+15:58:07:291    Budget COS n.addLink:  END: 2                                                                          :0.000056
+15:58:07:291   Budget COS n.addTail:  END                                                                              :0.000851
+15:58:07:291   Proposed Stock Purchase n.addTail:  START
+15:58:07:291    Proposed Stock Purchase n.addLink:  START
+15:58:07:291    Proposed Stock Purchase n.addLink:  END: 6                                                             :0.000055
+15:58:07:291   Proposed Stock Purchase n.addTail:  END                                                                 :0.000856
+15:58:07:291   Stock Purchase n.addTail:  START
+15:58:07:296    Stock Purchase n.addLink:  START
+15:58:07:296     First Element: Curved Connector 46                                                                    :0.000033
+15:58:07:296    Stock Purchase n.addLink:  END: 1                                                                      :0.000095
+15:58:07:296   Stock Purchase n.addTail:  END                                                                          :0.000978
+15:58:07:296   Actual COS n.addTail:  START
+15:58:07:296    Actual COS n.addLink:  START
+15:58:07:296    Actual COS n.addLink:  END: 3                                                                          :0.000053
+15:58:07:296   Actual COS n.addTail:  END                                                                              :0.000850
+15:58:07:296   Costs and provisions n.addTail:  START
+15:58:07:296    Costs and provisions n.addLink:  START
+15:58:07:296     First Element: Curved Connector 47                                                                    :0.000032
+15:58:07:296    Costs and provisions n.addLink:  END: 1                                                                :0.000092
+15:58:07:296   Costs and provisions n.addTail:  END                                                                    :0.000886
+15:58:07:301   Reserves n.addTail:  START
+15:58:07:301    Reserves n.addLink:  START
+15:58:07:301    Reserves n.addLink:  END: 4                                                                            :0.000052
+15:58:07:301   Reserves n.addTail:  END                                                                                :0.000848
+15:58:07:301   Available cash n.addTail:  START
+15:58:07:301    Available cash n.addLink:  START
+15:58:07:301     First Element: Curved Connector 48                                                                    :0.000031
+15:58:07:301    Available cash n.addLink:  END: 1                                                                      :0.000094
+15:58:07:301   Available cash n.addTail:  END                                                                          :0.000887
+15:58:07:301   Stock Purchase n.addTail:  START
+15:58:07:306    Stock Purchase n.addLink:  START
+15:58:07:306    Stock Purchase n.addLink:  END: 3                                                                      :0.000056
+15:58:07:306   Stock Purchase n.addTail:  END                                                                          :0.000983
+15:58:07:306   ROP (re-order ppoint).addChild:  START
+15:58:07:306    ROP (re-order ppoint).addLink:  START
+15:58:07:306     First Element: ROP (re-order ppoint) n                                                                :0.000031
+15:58:07:306    ROP (re-order ppoint).addLink:  END: 1                                                                 :0.000092
+15:58:07:306   ROP (re-order ppoint).addChild:  END                                                                    :0.000513
+15:58:07:306   ROP (re-order ppoint) n.addTail:  START
+15:58:07:306    ROP (re-order ppoint) n.addLink:  START
+15:58:07:306     First Element: Curved Connector 50                                                                    :0.000031
+15:58:07:306    ROP (re-order ppoint) n.addLink:  END: 1                                                               :0.000092
+15:58:07:306   ROP (re-order ppoint) n.addTail:  END                                                                   :0.000889
+15:58:07:311   Proposed Stock Purchase n.addTail:  START
+15:58:07:311    Proposed Stock Purchase n.addLink:  START
+15:58:07:311    Proposed Stock Purchase n.addLink:  END: 7                                                             :0.000053
+15:58:07:311   Proposed Stock Purchase n.addTail:  END                                                                 :0.000855
+15:58:07:311   Budget COS.addChild:  START
+15:58:07:311    Budget COS.addLink:  START
+15:58:07:311    Budget COS.addLink:  END: 2                                                                            :0.000052
+15:58:07:311   Budget COS.addChild:  END                                                                               :0.000472
+15:58:07:316   Weeks stock on hand.addChild:  START
+15:58:07:316    Weeks stock on hand.addLink:  START
+15:58:07:316     First Element: Weeks stock on hand n                                                                  :0.000031
+15:58:07:316    Weeks stock on hand.addLink:  END: 1                                                                   :0.000091
+15:58:07:316   Weeks stock on hand.addChild:  END                                                                      :0.000515
+15:58:07:316   Opening stock.addChild:  START
+15:58:07:316    Opening stock.addLink:  START
+15:58:07:316    Opening stock.addLink:  END: 3                                                                         :0.000053
+15:58:07:316   Opening stock.addChild:  END                                                                            :0.000474
+15:58:07:316   Actual COS.addChild:  START
+15:58:07:316    Actual COS.addLink:  START
+15:58:07:316    Actual COS.addLink:  END: 3                                                                            :0.000051
+15:58:07:316   Actual COS.addChild:  END                                                                               :0.000472
+15:58:07:316   Actual COS.addChild:  START
+15:58:07:321    Actual COS.addLink:  START
+15:58:07:321    Actual COS.addLink:  END: 4                                                                            :0.000051
+15:58:07:321   Actual COS.addChild:  END                                                                               :0.000488
+15:58:07:321   Opening stock.addChild:  START
+15:58:07:321    Opening stock.addLink:  START
+15:58:07:321    Opening stock.addLink:  END: 4                                                                         :0.000051
+15:58:07:321   Opening stock.addChild:  END                                                                            :0.000478
+15:58:07:321   Opening stock n-3.addTail:  START
+15:58:07:321    Opening stock n-3.addLink:  START
+15:58:07:321     First Element: Curved Connector 97                                                                    :0.000032
+15:58:07:321    Opening stock n-3.addLink:  END: 1                                                                     :0.000092
+15:58:07:321   Opening stock n-3.addTail:  END                                                                         :0.000886
+15:58:07:326   Weeks stock on hand n.addTail:  START
+15:58:07:326    Weeks stock on hand n.addLink:  START
+15:58:07:326     First Element: Curved Connector 97                                                                    :0.000031
+15:58:07:326    Weeks stock on hand n.addLink:  END: 1                                                                 :0.000091
+15:58:07:326   Weeks stock on hand n.addTail:  END                                                                     :0.000889
+15:58:07:326   Opening stock n-2.addTail:  START
+15:58:07:326    Opening stock n-2.addLink:  START
+15:58:07:326     First Element: Curved Connector 100                                                                   :0.000031
+15:58:07:326    Opening stock n-2.addLink:  END: 1                                                                     :0.000092
+15:58:07:326   Opening stock n-2.addTail:  END                                                                         :0.000892
+15:58:07:326   Weeks stock on hand n.addTail:  START
+15:58:07:331    Weeks stock on hand n.addLink:  START
+15:58:07:331    Weeks stock on hand n.addLink:  END: 2                                                                 :0.000070
+15:58:07:331   Weeks stock on hand n.addTail:  END                                                                     :0.000870
+15:58:07:331   Opening stock n-1.addTail:  START
+15:58:07:331    Opening stock n-1.addLink:  START
+15:58:07:331    Opening stock n-1.addLink:  END: 2                                                                     :0.000052
+15:58:07:331   Opening stock n-1.addTail:  END                                                                         :0.000849
+15:58:07:331   Weeks stock on hand n.addTail:  START
+15:58:07:331    Weeks stock on hand n.addLink:  START
+15:58:07:331    Weeks stock on hand n.addLink:  END: 3                                                                 :0.000052
+15:58:07:331   Weeks stock on hand n.addTail:  END                                                                     :0.000849
+15:58:07:336   Opening stock n.addTail:  START
+15:58:07:336    Opening stock n.addLink:  START
+15:58:07:336    Opening stock n.addLink:  END: 4                                                                       :0.000052
+15:58:07:336   Opening stock n.addTail:  END                                                                           :0.000852
+15:58:07:336   Weeks stock on hand n.addTail:  START
+15:58:07:336    Weeks stock on hand n.addLink:  START
+15:58:07:336    Weeks stock on hand n.addLink:  END: 4                                                                 :0.000052
+15:58:07:336   Weeks stock on hand n.addTail:  END                                                                     :0.000852
+15:58:07:336   Actual COS n.addTail:  START
+15:58:07:341    Actual COS n.addLink:  START
+15:58:07:341    Actual COS n.addLink:  END: 3                                                                          :0.000062
+15:58:07:341   Actual COS n.addTail:  END                                                                              :0.000896
+15:58:07:341   Weeks stock on hand n.addTail:  START
+15:58:07:341    Weeks stock on hand n.addLink:  START
+15:58:07:341    Weeks stock on hand n.addLink:  END: 5                                                                 :0.000054
+15:58:07:341   Weeks stock on hand n.addTail:  END                                                                     :0.000857
+15:58:07:341   Actual COS n-1.addTail:  START
+15:58:07:341    Actual COS n-1.addLink:  START
+15:58:07:341    Actual COS n-1.addLink:  END: 2                                                                        :0.000051
+15:58:07:341   Actual COS n-1.addTail:  END                                                                            :0.000850
+15:58:07:346   Weeks stock on hand n.addTail:  START
+15:58:07:346    Weeks stock on hand n.addLink:  START
+15:58:07:346    Weeks stock on hand n.addLink:  END: 6                                                                 :0.000052
+15:58:07:346   Weeks stock on hand n.addTail:  END                                                                     :0.000850
+15:58:07:346   Actual COS n-2.addTail:  START
+15:58:07:346    Actual COS n-2.addLink:  START
+15:58:07:346     First Element: Curved Connector 117                                                                   :0.000031
+15:58:07:346    Actual COS n-2.addLink:  END: 1                                                                        :0.000092
+15:58:07:346   Actual COS n-2.addTail:  END                                                                            :0.000892
+15:58:07:346   Weeks stock on hand n.addTail:  START
+15:58:07:351    Weeks stock on hand n.addLink:  START
+15:58:07:351    Weeks stock on hand n.addLink:  END: 7                                                                 :0.000055
+15:58:07:351   Weeks stock on hand n.addTail:  END                                                                     :0.000870
+15:58:07:351   Actual COS n-3.addTail:  START
+15:58:07:351    Actual COS n-3.addLink:  START
+15:58:07:351     First Element: Curved Connector 121                                                                   :0.000031
+15:58:07:351    Actual COS n-3.addLink:  END: 1                                                                        :0.000091
+15:58:07:351   Actual COS n-3.addTail:  END                                                                            :0.000888
+15:58:07:351   Weeks stock on hand n.addTail:  START
+15:58:07:351    Weeks stock on hand n.addLink:  START
+15:58:07:351    Weeks stock on hand n.addLink:  END: 8                                                                 :0.000053
+15:58:07:351   Weeks stock on hand n.addTail:  END                                                                     :0.000852
+15:58:07:351  cBlockDiagram.linkElements:  END                                                                         :0.193868
+15:58:07:351 cBlockDiagram.Ws:  END                                                                                    :6.855304
+15:58:07:351  : Events On                                                                                              :0.000004
+15:58:07:401  : Screen On                                                                                              :0.000015
+15:58:07:406  : xlCalculationManual                                                                                    :0.000012
+15:58:08:506  : Screen Off                                                                                             :0.000008
+15:58:08:511  : xlCalculationManual                                                                                    :0.000007
+15:58:08:511  : Events Off                                                                                             :0.000003
+
+15:58:08:511 cBlockDiagram.mNotifier_Activated:  START transfering from nothing to Actual COS
+15:58:08:511  Actual COS.headBlock:  START
+
+15:58:08:511   Actual COS.Activate:  START
+
+15:58:08:516    cNotify.elements:  START Actual COS
+15:58:08:516      Actual COS n
+15:58:08:516      Actual COS n-1
+15:58:08:516      Actual COS n-2
+15:58:08:516      Actual COS n-3
+15:58:08:516      END                                                                                                  :0.000137
+
+15:58:08:516     Actual COS n.Activate:  START
+
+15:58:08:521      cNotify.elements:  START Actual COS n
+15:58:08:521      cNotify.elements:  END                                                                               :0.000066
+15:58:08:526      cNotify.elements:  START Actual COS n
+15:58:08:526        Curved Connector 21
+15:58:08:526        Curved Connector 40
+15:58:08:526        Curved Connector 109
+15:58:08:526        END                                                                                                :0.000103
+
+15:58:08:526       cBlockDiagramConnector.Activate:  Actual COS n to Actual Sales n
+
+15:58:08:531        cNotify.elements:  START Curved Connector 21
+15:58:08:531         Actual Sales n                                                                                    :0.000041
+
+15:58:08:531         Actual Sales n.Activate:  START
+
+15:58:08:536          cNotify.elements:  START Actual Sales n
+15:58:08:536          cNotify.elements:  END                                                                           :0.000065
+15:58:08:541          cNotify.elements:  START Actual Sales n
+15:58:08:541            Curved Connector 41
+15:58:08:541            END                                                                                            :0.000043
+
+15:58:08:541           cBlockDiagramConnector.Activate:  Actual Sales n to Reserves n
+
+15:58:08:546            cNotify.elements:  START Curved Connector 41
+15:58:08:546             Reserves n                                                                                    :0.000041
+
+15:58:08:546             Reserves n.Activate:  START
+
+15:58:08:551              cNotify.elements:  START Reserves n
+15:58:08:551              cNotify.elements:  END                                                                       :0.000062
+15:58:08:556              cNotify.elements:  START Reserves n
+15:58:08:556              cNotify.elements:  END                                                                       :0.000059
+15:58:08:556             Reserves n.Activate:  END                                                                     :0.006171
+15:58:08:556            cNotify.elements:  END                                                                         :0.008606
+15:58:08:556           cBlockDiagramConnector.Activate:  END: Actual Sales n to Reserves n                             :0.012674
+15:58:08:556          cNotify.elements:  END                                                                           :0.015200
+15:58:08:556         Actual Sales n.Activate:  END                                                                     :0.021515
+15:58:08:556        cNotify.elements:  END                                                                             :0.023940
+15:58:08:556       cBlockDiagramConnector.Activate:  END: Actual COS n to Actual Sales n                               :0.027973
+
+15:58:08:556       cBlockDiagramConnector.Activate:  Actual COS n to Reserves n
+
+15:58:08:561        cNotify.elements:  START Curved Connector 40
+15:58:08:561         Reserves n                                                                                        :0.000037
+15:58:08:561        cNotify.elements:  END                                                                             :0.000111
+15:58:08:561       cBlockDiagramConnector.Activate:  END: Actual COS n to Reserves n                                   :0.003821
+
+15:58:08:561       cBlockDiagramConnector.Activate:  Actual COS n to Weeks stock on hand n
+
+15:58:08:566        cNotify.elements:  START Curved Connector 109
+15:58:08:566         Weeks stock on hand n                                                                             :0.000038
+
+15:58:08:571         Weeks stock on hand n.Activate:  START
+
+15:58:08:576          cNotify.elements:  START Weeks stock on hand n
+15:58:08:576          cNotify.elements:  END                                                                           :0.000060
+15:58:08:576          cNotify.elements:  START Weeks stock on hand n
+15:58:08:576          cNotify.elements:  END                                                                           :0.000082
+15:58:08:576         Weeks stock on hand n.Activate:  END                                                              :0.006281
+15:58:08:576        cNotify.elements:  END                                                                             :0.009126
+15:58:08:576       cBlockDiagramConnector.Activate:  END: Actual COS n to Weeks stock on hand n                        :0.012875
+15:58:08:576      cNotify.elements:  END                                                                               :0.052149
+15:58:08:576     Actual COS n.Activate:  END                                                                           :0.058618
+
+15:58:08:576     Actual COS n-1.Activate:  START
+
+15:58:08:581      cNotify.elements:  START Actual COS n-1
+15:58:08:581      cNotify.elements:  END                                                                               :0.000060
+15:58:08:586      cNotify.elements:  START Actual COS n-1
+15:58:08:586        Curved Connector 16
+15:58:08:586        Curved Connector 113
+15:58:08:586        END                                                                                                :0.000075
+
+15:58:08:586       cBlockDiagramConnector.Activate:  Actual COS n-1 to Opening stock n
+
+15:58:08:591        cNotify.elements:  START Curved Connector 16
+15:58:08:591         Opening stock n                                                                                   :0.000037
+
+15:58:08:596         Opening stock n.Activate:  START
+
+15:58:08:601          cNotify.elements:  START Opening stock n
+15:58:08:601          cNotify.elements:  END                                                                           :0.000060
+15:58:08:601          cNotify.elements:  START Opening stock n
+15:58:08:601            Curved Connector 7
+15:58:08:601            Curved Connector 17
+15:58:08:601            Curved Connector 19
+15:58:08:601            Curved Connector 106
+15:58:08:601            END                                                                                            :0.000133
+
+15:58:08:601           cBlockDiagramConnector.Activate:  Opening stock n to Proposed Stock Purchase n
+
+15:58:08:606            cNotify.elements:  START Curved Connector 7
+15:58:08:606             Proposed Stock Purchase n                                                                     :0.000037
+
+15:58:08:611             Proposed Stock Purchase n.Activate:  START
+
+15:58:08:616              cNotify.elements:  START Proposed Stock Purchase n
+15:58:08:616              cNotify.elements:  END                                                                       :0.000061
+15:58:08:616              cNotify.elements:  START Proposed Stock Purchase n
+15:58:08:616                Curved Connector 12
+15:58:08:616                END                                                                                        :0.000041
+
+15:58:08:616               cBlockDiagramConnector.Activate:  Proposed Stock Purchase n to Stock Purchase n
+
+15:58:08:621                cNotify.elements:  START Curved Connector 12
+15:58:08:621                 Stock Purchase n                                                                          :0.000038
+
+15:58:08:621                 Stock Purchase n.Activate:  START
+
+15:58:08:626                  cNotify.elements:  START Stock Purchase n
+15:58:08:626                  cNotify.elements:  END                                                                   :0.000064
+15:58:08:631                  cNotify.elements:  START Stock Purchase n
+15:58:08:631                    Curved Connector 46
+15:58:08:631                    END                                                                                    :0.000042
+
+15:58:08:631                   cBlockDiagramConnector.Activate:  Stock Purchase n to Actual COS n
+
+15:58:08:636                    cNotify.elements:  START Curved Connector 46
+15:58:08:636                     Actual COS n                                                                          :0.000040
+15:58:08:636                    cNotify.elements:  END                                                                 :0.000116
+15:58:08:636                   cBlockDiagramConnector.Activate:  END: Stock Purchase n to Actual COS n                 :0.003509
+15:58:08:636                  cNotify.elements:  END                                                                   :0.005846
+15:58:08:636                 Stock Purchase n.Activate:  END                                                           :0.011551
+15:58:08:636                cNotify.elements:  END                                                                     :0.013775
+15:58:08:636               cBlockDiagramConnector.Activate:  END: Proposed Stock Purchase n to Stock Purchase n        :0.017240
+15:58:08:636              cNotify.elements:  END                                                                       :0.019851
+15:58:08:636             Proposed Stock Purchase n.Activate:  END                                                      :0.025470
+15:58:08:636            cNotify.elements:  END                                                                         :0.028314
+15:58:08:636           cBlockDiagramConnector.Activate:  END: Opening stock n to Proposed Stock Purchase n             :0.032009
+
+15:58:08:636           cBlockDiagramConnector.Activate:  Opening stock n to Stock Purchase n
+
+15:58:08:641            cNotify.elements:  START Curved Connector 17
+15:58:08:641             Stock Purchase n                                                                              :0.000038
+15:58:08:641            cNotify.elements:  END                                                                         :0.000113
+15:58:08:641           cBlockDiagramConnector.Activate:  END: Opening stock n to Stock Purchase n                      :0.003596
+
+15:58:08:641           cBlockDiagramConnector.Activate:  Opening stock n to Actual COS n
+
+15:58:08:646            cNotify.elements:  START Curved Connector 19
+15:58:08:646             Actual COS n                                                                                  :0.000038
+15:58:08:646            cNotify.elements:  END                                                                         :0.000114
+15:58:08:646           cBlockDiagramConnector.Activate:  END: Opening stock n to Actual COS n                          :0.003673
+
+15:58:08:651           cBlockDiagramConnector.Activate:  Opening stock n to Weeks stock on hand n
+
+15:58:08:651            cNotify.elements:  START Curved Connector 106
+15:58:08:651             Weeks stock on hand n                                                                         :0.000037
+15:58:08:651            cNotify.elements:  END                                                                         :0.000116
+15:58:08:651           cBlockDiagramConnector.Activate:  END: Opening stock n to Weeks stock on hand n                 :0.003516
+15:58:08:651          cNotify.elements:  END                                                                           :0.052309
+15:58:08:651         Opening stock n.Activate:  END                                                                    :0.058692
+15:58:08:651        cNotify.elements:  END                                                                             :0.061605
+15:58:08:651       cBlockDiagramConnector.Activate:  END: Actual COS n-1 to Opening stock n                            :0.065317
+
+15:58:08:656       cBlockDiagramConnector.Activate:  Actual COS n-1 to Weeks stock on hand n
+
+15:58:08:661        cNotify.elements:  START Curved Connector 113
+15:58:08:661         Weeks stock on hand n                                                                             :0.000040
+15:58:08:661        cNotify.elements:  END                                                                             :0.000123
+15:58:08:661       cBlockDiagramConnector.Activate:  END: Actual COS n-1 to Weeks stock on hand n                      :0.003809
+15:58:08:661      cNotify.elements:  END                                                                               :0.074012
+15:58:08:661     Actual COS n-1.Activate:  END                                                                         :0.080695
+
+15:58:08:661     Actual COS n-2.Activate:  START
+
+15:58:08:666      cNotify.elements:  START Actual COS n-2
+15:58:08:666      cNotify.elements:  END                                                                               :0.000069
+15:58:08:666      cNotify.elements:  START Actual COS n-2
+15:58:08:666        Curved Connector 117
+15:58:08:666        END                                                                                                :0.000041
+
+15:58:08:671       cBlockDiagramConnector.Activate:  Actual COS n-2 to Weeks stock on hand n
+
+15:58:08:671        cNotify.elements:  START Curved Connector 117
+15:58:08:671         Weeks stock on hand n                                                                             :0.000036
+15:58:08:671        cNotify.elements:  END                                                                             :0.000111
+15:58:08:671       cBlockDiagramConnector.Activate:  END: Actual COS n-2 to Weeks stock on hand n                      :0.003491
+15:58:08:671      cNotify.elements:  END                                                                               :0.005827
+15:58:08:671     Actual COS n-2.Activate:  END                                                                         :0.011504
+
+15:58:08:676     Actual COS n-3.Activate:  START
+
+15:58:08:681      cNotify.elements:  START Actual COS n-3
+15:58:08:681      cNotify.elements:  END                                                                               :0.000058
+15:58:08:681      cNotify.elements:  START Actual COS n-3
+15:58:08:681        Curved Connector 121
+15:58:08:681        END                                                                                                :0.000041
+
+15:58:08:681       cBlockDiagramConnector.Activate:  Actual COS n-3 to Weeks stock on hand n
+
+15:58:08:686        cNotify.elements:  START Curved Connector 121
+15:58:08:686         Weeks stock on hand n                                                                             :0.000036
+15:58:08:686        cNotify.elements:  END                                                                             :0.000111
+15:58:08:686       cBlockDiagramConnector.Activate:  END: Actual COS n-3 to Weeks stock on hand n                      :0.003494
+15:58:08:686      cNotify.elements:  END                                                                               :0.005807
+15:58:08:686     Actual COS n-3.Activate:  END                                                                         :0.011272
+15:58:08:686    cNotify.elements:  END                                                                                 :0.171337
+15:58:08:686    cNotify.elements:  START Actual COS
+15:58:08:686    cNotify.elements:  END                                                                                 :0.000052
+15:58:08:686   Actual COS.Activate:  END                                                                               :0.174137
+15:58:08:686  Actual COS.headBlock:  END                                                                               :0.175850
+15:58:08:686 cBlockDiagram.mNotifier_Activated:  END                                                                   :0.177538
+15:58:08:686  : Events On                                                                                              :0.000003
+15:58:08:691  : Screen On                                                                                              :0.000008
+15:58:08:696  : xlCalculationManual                                                                                    :0.000006
+15:58:08:960  : Screen Off                                                                                             :0.000010
+15:58:08:960  : xlCalculationManual                                                                                    :0.000007
+15:58:08:960  : Events Off                                                                                             :0.000005
+
+15:58:08:965 cBlockDiagram.mNotifier_Activated:  START transfering from Actual COS to Stock Purchase n
+15:58:08:965  Actual COS.headBlock:  START
+15:58:08:965   Actual COS.deActivate:  START
+15:58:08:965    cNotify.elements:  START Actual COS
+15:58:08:965      Actual COS n
+15:58:08:965      Actual COS n-1
+15:58:08:965      Actual COS n-2
+15:58:08:965      Actual COS n-3
+15:58:08:965      END                                                                                                  :0.000132
+15:58:08:970     Actual COS n.deActivate:  START
+15:58:08:970      cNotify.elements:  START Actual COS n
+15:58:08:975      cNotify.elements:  END                                                                               :0.000101
+15:58:08:975      cNotify.elements:  START Actual COS n
+15:58:08:975        Curved Connector 21
+15:58:08:975        Curved Connector 40
+15:58:08:975        Curved Connector 109
+15:58:08:975        END                                                                                                :0.000105
+15:58:08:975       cBlockDiagramConnector.deActivate:  Actual Sales n
+15:58:08:980        cNotify.elements:  START Curved Connector 21
+15:58:08:980         Actual Sales n                                                                                    :0.000038
+15:58:08:985         Actual Sales n.deActivate:  START
+15:58:08:990          cNotify.elements:  START Actual Sales n
+15:58:08:990          cNotify.elements:  END                                                                           :0.000096
+15:58:08:990          cNotify.elements:  START Actual Sales n
+15:58:08:990            Curved Connector 41
+15:58:08:990            END                                                                                            :0.000078
+15:58:08:995           cBlockDiagramConnector.deActivate:  Reserves n
+15:58:09:000            cNotify.elements:  START Curved Connector 41
+15:58:09:000             Reserves n                                                                                    :0.000076
+15:58:09:005             Reserves n.deActivate:  START
+15:58:09:010              cNotify.elements:  START Reserves n
+15:58:09:010              cNotify.elements:  END                                                                       :0.000074
+15:58:09:010              cNotify.elements:  START Reserves n
+15:58:09:010              cNotify.elements:  END                                                                       :0.000060
+15:58:09:010             Reserves n.deActivate:  END                                                                   :0.006270
+15:58:09:010            cNotify.elements:  END                                                                         :0.010034
+15:58:09:010           cBlockDiagramConnector.deActivate:  END: Reserves n                                             :0.017226
+15:58:09:010          cNotify.elements:  END                                                                           :0.019945
+15:58:09:010         Actual Sales n.deActivate:  END                                                                   :0.027191
+15:58:09:010        cNotify.elements:  END                                                                             :0.031474
+15:58:09:010       cBlockDiagramConnector.deActivate:  END: Actual Sales n                                             :0.035055
+15:58:09:015       cBlockDiagramConnector.deActivate:  Reserves n
+15:58:09:020        cNotify.elements:  START Curved Connector 40
+15:58:09:020         Reserves n                                                                                        :0.000050
+15:58:09:020        cNotify.elements:  END                                                                             :0.000137
+15:58:09:020       cBlockDiagramConnector.deActivate:  END: Reserves n                                                 :0.006033
+15:58:09:020       cBlockDiagramConnector.deActivate:  Weeks stock on hand n
+15:58:09:025        cNotify.elements:  START Curved Connector 109
+15:58:09:025         Weeks stock on hand n                                                                             :0.000047
+15:58:09:030         Weeks stock on hand n.deActivate:  START
+15:58:09:030          cNotify.elements:  START Weeks stock on hand n
+15:58:09:030          cNotify.elements:  END                                                                           :0.000067
+15:58:09:035          cNotify.elements:  START Weeks stock on hand n
+15:58:09:035          cNotify.elements:  END                                                                           :0.000056
+15:58:09:035         Weeks stock on hand n.deActivate:  END                                                            :0.003998
+15:58:09:035        cNotify.elements:  END                                                                             :0.006906
+15:58:09:035       cBlockDiagramConnector.deActivate:  END: Weeks stock on hand n                                      :0.011992
+15:58:09:035      cNotify.elements:  END                                                                               :0.058053
+15:58:09:035     Actual COS n.deActivate:  END                                                                         :0.063449
+15:58:09:035     Actual COS n-1.deActivate:  START
+15:58:09:040      cNotify.elements:  START Actual COS n-1
+15:58:09:040      cNotify.elements:  END                                                                               :0.000067
+15:58:09:040      cNotify.elements:  START Actual COS n-1
+15:58:09:040        Curved Connector 16
+15:58:09:040        Curved Connector 113
+15:58:09:040        END                                                                                                :0.000072
+15:58:09:040       cBlockDiagramConnector.deActivate:  Opening stock n
+15:58:09:045        cNotify.elements:  START Curved Connector 16
+15:58:09:045         Opening stock n                                                                                   :0.000036
+15:58:09:045         Opening stock n.deActivate:  START
+15:58:09:050          cNotify.elements:  START Opening stock n
+15:58:09:050          cNotify.elements:  END                                                                           :0.000065
+15:58:09:050          cNotify.elements:  START Opening stock n
+15:58:09:050            Curved Connector 7
+15:58:09:050            Curved Connector 17
+15:58:09:050            Curved Connector 19
+15:58:09:050            Curved Connector 106
+15:58:09:050            END                                                                                            :0.000132
+15:58:09:050           cBlockDiagramConnector.deActivate:  Proposed Stock Purchase n
+15:58:09:055            cNotify.elements:  START Curved Connector 7
+15:58:09:055             Proposed Stock Purchase n                                                                     :0.000040
+15:58:09:055             Proposed Stock Purchase n.deActivate:  START
+15:58:09:060              cNotify.elements:  START Proposed Stock Purchase n
+15:58:09:060              cNotify.elements:  END                                                                       :0.000059
+15:58:09:060              cNotify.elements:  START Proposed Stock Purchase n
+15:58:09:060                Curved Connector 12
+15:58:09:060                END                                                                                        :0.000041
+15:58:09:060               cBlockDiagramConnector.deActivate:  Stock Purchase n
+15:58:09:065                cNotify.elements:  START Curved Connector 12
+15:58:09:065                 Stock Purchase n                                                                          :0.000039
+15:58:09:065                 Stock Purchase n.deActivate:  START
+15:58:09:070                  cNotify.elements:  START Stock Purchase n
+15:58:09:070                  cNotify.elements:  END                                                                   :0.000065
+15:58:09:070                  cNotify.elements:  START Stock Purchase n
+15:58:09:070                    Curved Connector 46
+15:58:09:070                    END                                                                                    :0.000041
+15:58:09:070                   cBlockDiagramConnector.deActivate:  Actual COS n
+15:58:09:075                    cNotify.elements:  START Curved Connector 46
+15:58:09:075                     Actual COS n                                                                          :0.000039
+15:58:09:075                    cNotify.elements:  END                                                                 :0.000116
+15:58:09:075                   cBlockDiagramConnector.deActivate:  END: Actual COS n                                   :0.003883
+15:58:09:075                  cNotify.elements:  END                                                                   :0.005224
+15:58:09:075                 Stock Purchase n.deActivate:  END                                                         :0.009161
+15:58:09:075                cNotify.elements:  END                                                                     :0.011377
+15:58:09:075               cBlockDiagramConnector.deActivate:  END: Stock Purchase n                                   :0.015114
+15:58:09:075              cNotify.elements:  END                                                                       :0.016390
+15:58:09:075             Proposed Stock Purchase n.deActivate:  END                                                    :0.019947
+15:58:09:075            cNotify.elements:  END                                                                         :0.022153
+15:58:09:075           cBlockDiagramConnector.deActivate:  END: Proposed Stock Purchase n                              :0.025690
+15:58:09:080           cBlockDiagramConnector.deActivate:  Stock Purchase n
+15:58:09:080            cNotify.elements:  START Curved Connector 17
+15:58:09:080             Stock Purchase n                                                                              :0.000036
+15:58:09:080            cNotify.elements:  END                                                                         :0.000111
+15:58:09:080           cBlockDiagramConnector.deActivate:  END: Stock Purchase n                                       :0.003499
+15:58:09:085           cBlockDiagramConnector.deActivate:  Actual COS n
+15:58:09:085            cNotify.elements:  START Curved Connector 19
+15:58:09:085             Actual COS n                                                                                  :0.000042
+15:58:09:085            cNotify.elements:  END                                                                         :0.000125
+15:58:09:085           cBlockDiagramConnector.deActivate:  END: Actual COS n                                           :0.003851
+15:58:09:090           cBlockDiagramConnector.deActivate:  Weeks stock on hand n
+15:58:09:090            cNotify.elements:  START Curved Connector 106
+15:58:09:090             Weeks stock on hand n                                                                         :0.000036
+15:58:09:090            cNotify.elements:  END                                                                         :0.000109
+15:58:09:090           cBlockDiagramConnector.deActivate:  END: Weeks stock on hand n                                  :0.003476
+15:58:09:090          cNotify.elements:  END                                                                           :0.041640
+15:58:09:090         Opening stock n.deActivate:  END                                                                  :0.045522
+15:58:09:090        cNotify.elements:  END                                                                             :0.047824
+15:58:09:090       cBlockDiagramConnector.deActivate:  END: Opening stock n                                            :0.051370
+15:58:09:095       cBlockDiagramConnector.deActivate:  Weeks stock on hand n
+15:58:09:095        cNotify.elements:  START Curved Connector 113
+15:58:09:095         Weeks stock on hand n                                                                             :0.000040
+15:58:09:095        cNotify.elements:  END                                                                             :0.000118
+15:58:09:095       cBlockDiagramConnector.deActivate:  END: Weeks stock on hand n                                      :0.003694
+15:58:09:095      cNotify.elements:  END                                                                               :0.057596
+15:58:09:095     Actual COS n-1.deActivate:  END                                                                       :0.061437
+15:58:09:100     Actual COS n-2.deActivate:  START
+15:58:09:100      cNotify.elements:  START Actual COS n-2
+15:58:09:100      cNotify.elements:  END                                                                               :0.000060
+15:58:09:105      cNotify.elements:  START Actual COS n-2
+15:58:09:105        Curved Connector 117
+15:58:09:105        END                                                                                                :0.000086
+15:58:09:105       cBlockDiagramConnector.deActivate:  Weeks stock on hand n
+15:58:09:110        cNotify.elements:  START Curved Connector 117
+15:58:09:110         Weeks stock on hand n                                                                             :0.000056
+15:58:09:110        cNotify.elements:  END                                                                             :0.000146
+15:58:09:110       cBlockDiagramConnector.deActivate:  END: Weeks stock on hand n                                      :0.005173
+15:58:09:110      cNotify.elements:  END                                                                               :0.008072
+15:58:09:110     Actual COS n-2.deActivate:  END                                                                       :0.012526
+15:58:09:115     Actual COS n-3.deActivate:  START
+15:58:09:115      cNotify.elements:  START Actual COS n-3
+15:58:09:115      cNotify.elements:  END                                                                               :0.000058
+15:58:09:120      cNotify.elements:  START Actual COS n-3
+15:58:09:120        Curved Connector 121
+15:58:09:120        END                                                                                                :0.000041
+15:58:09:120       cBlockDiagramConnector.deActivate:  Weeks stock on hand n
+15:58:09:120        cNotify.elements:  START Curved Connector 121
+15:58:09:120         Weeks stock on hand n                                                                             :0.000038
+15:58:09:120        cNotify.elements:  END                                                                             :0.000113
+15:58:09:120       cBlockDiagramConnector.deActivate:  END: Weeks stock on hand n                                      :0.003512
+15:58:09:120      cNotify.elements:  END                                                                               :0.004806
+15:58:09:120     Actual COS n-3.deActivate:  END                                                                       :0.008355
+15:58:09:120    cNotify.elements:  END                                                                                 :0.155663
+15:58:09:125    cNotify.elements:  START Actual COS
+15:58:09:125    cNotify.elements:  END                                                                                 :0.000059
+15:58:09:125   Actual COS.deActivate:  END                                                                             :0.157845
+15:58:09:125  Actual COS.headBlock:  END                                                                               :0.158944
+15:58:09:125  Stock Purchase n.headBlock:  START
+
+15:58:09:130   Stock Purchase n.Activate:  START
+
+15:58:09:130    cNotify.elements:  START Stock Purchase n
+15:58:09:130    cNotify.elements:  END                                                                                 :0.000059
+15:58:09:135    cNotify.elements:  START Stock Purchase n
+15:58:09:135      Curved Connector 12
+15:58:09:135      Curved Connector 17
+15:58:09:135      Curved Connector 48
+15:58:09:135      END                                                                                                  :0.000103
+
+15:58:09:135     cBlockDiagramConnector.Activate:  Proposed Stock Purchase n to Stock Purchase n
+
+15:58:09:140      cNotify.elements:  START Curved Connector 12
+15:58:09:140       Proposed Stock Purchase n                                                                           :0.000041
+
+15:58:09:140       Proposed Stock Purchase n.Activate:  START
+
+15:58:09:145        cNotify.elements:  START Proposed Stock Purchase n
+15:58:09:145        cNotify.elements:  END                                                                             :0.000059
+15:58:09:145        cNotify.elements:  START Proposed Stock Purchase n
+15:58:09:150          Curved Connector 4
+15:58:09:150          Curved Connector 7
+15:58:09:150          Curved Connector 22
+15:58:09:150          Curved Connector 33
+15:58:09:150          Curved Connector 34
+15:58:09:150          Curved Connector 45
+15:58:09:150          Curved Connector 50
+15:58:09:150          END                                                                                              :0.000218
+
+15:58:09:150         cBlockDiagramConnector.Activate:  Proposed COS n-1 to Proposed Stock Purchase n
+
+15:58:09:155          cNotify.elements:  START Curved Connector 4
+15:58:09:155           Proposed COS n-1                                                                                :0.000036
+
+15:58:09:155           Proposed COS n-1.Activate:  START
+
+15:58:09:160            cNotify.elements:  START Proposed COS n-1
+15:58:09:160            cNotify.elements:  END                                                                         :0.000059
+15:58:09:160            cNotify.elements:  START Proposed COS n-1
+15:58:09:160            cNotify.elements:  END                                                                         :0.000055
+15:58:09:160           Proposed COS n-1.Activate:  END                                                                 :0.005765
+15:58:09:160          cNotify.elements:  END                                                                           :0.008063
+15:58:09:160         cBlockDiagramConnector.Activate:  END: Proposed COS n-1 to Proposed Stock Purchase n              :0.011600
+
+15:58:09:165         cBlockDiagramConnector.Activate:  Opening stock n to Proposed Stock Purchase n
+
+15:58:09:165          cNotify.elements:  START Curved Connector 7
+15:58:09:165           Opening stock n                                                                                 :0.000037
+
+15:58:09:170           Opening stock n.Activate:  START
+
+15:58:09:175            cNotify.elements:  START Opening stock n
+15:58:09:175            cNotify.elements:  END                                                                         :0.000073
+15:58:09:175            cNotify.elements:  START Opening stock n
+15:58:09:175              Curved Connector 11
+15:58:09:175              Curved Connector 15
+15:58:09:175              Curved Connector 16
+15:58:09:175              END                                                                                          :0.000104
+
+15:58:09:180             cBlockDiagramConnector.Activate:  Stock Purchase n-1 to Opening stock n
+
+15:58:09:180              cNotify.elements:  START Curved Connector 11
+15:58:09:180               Stock Purchase n-1                                                                          :0.000037
+
+15:58:09:185               Stock Purchase n-1.Activate:  START
+
+15:58:09:190                cNotify.elements:  START Stock Purchase n-1
+15:58:09:190                cNotify.elements:  END                                                                     :0.000062
+15:58:09:190                cNotify.elements:  START Stock Purchase n-1
+15:58:09:190                cNotify.elements:  END                                                                     :0.000055
+15:58:09:190               Stock Purchase n-1.Activate:  END                                                           :0.005731
+15:58:09:190              cNotify.elements:  END                                                                       :0.008015
+15:58:09:190             cBlockDiagramConnector.Activate:  END: Stock Purchase n-1 to Opening stock n                  :0.011481
+
+15:58:09:190             cBlockDiagramConnector.Activate:  Opening stock n-1 to Opening stock n
+
+15:58:09:195              cNotify.elements:  START Curved Connector 15
+15:58:09:195               Opening stock n-1                                                                           :0.000036
+
+15:58:09:195               Opening stock n-1.Activate:  START
+
+15:58:09:200                cNotify.elements:  START Opening stock n-1
+15:58:09:200                cNotify.elements:  END                                                                     :0.000059
+15:58:09:205                cNotify.elements:  START Opening stock n-1
+15:58:09:205                cNotify.elements:  END                                                                     :0.000055
+15:58:09:205               Opening stock n-1.Activate:  END                                                            :0.005697
+15:58:09:205              cNotify.elements:  END                                                                       :0.007998
+15:58:09:205             cBlockDiagramConnector.Activate:  END: Opening stock n-1 to Opening stock n                   :0.011549
+
+15:58:09:205             cBlockDiagramConnector.Activate:  Actual COS n-1 to Opening stock n
+
+15:58:09:210              cNotify.elements:  START Curved Connector 16
+15:58:09:210               Actual COS n-1                                                                              :0.000055
+
+15:58:09:210               Actual COS n-1.Activate:  START
+
+15:58:09:215                cNotify.elements:  START Actual COS n-1
+15:58:09:215                cNotify.elements:  END                                                                     :0.000066
+15:58:09:215                cNotify.elements:  START Actual COS n-1
+15:58:09:215                cNotify.elements:  END                                                                     :0.000055
+15:58:09:215               Actual COS n-1.Activate:  END                                                               :0.005934
+15:58:09:220              cNotify.elements:  END                                                                       :0.008452
+15:58:09:220             cBlockDiagramConnector.Activate:  END: Actual COS n-1 to Opening stock n                      :0.012168
+15:58:09:220            cNotify.elements:  END                                                                         :0.042198
+15:58:09:220           Opening stock n.Activate:  END                                                                  :0.047946
+15:58:09:220          cNotify.elements:  END                                                                           :0.050277
+15:58:09:220         cBlockDiagramConnector.Activate:  END: Opening stock n to Proposed Stock Purchase n               :0.053810
+
+15:58:09:220         cBlockDiagramConnector.Activate:  Budget COS n-1 to Proposed Stock Purchase n
+
+15:58:09:225          cNotify.elements:  START Curved Connector 22
+15:58:09:225           Budget COS n-1                                                                                  :0.000042
+
+15:58:09:225           Budget COS n-1.Activate:  START
+
+15:58:09:230            cNotify.elements:  START Budget COS n-1
+15:58:09:230            cNotify.elements:  END                                                                         :0.000064
+15:58:09:230            cNotify.elements:  START Budget COS n-1
+15:58:09:230            cNotify.elements:  END                                                                         :0.000055
+15:58:09:230           Budget COS n-1.Activate:  END                                                                   :0.005774
+15:58:09:230          cNotify.elements:  END                                                                           :0.007980
+15:58:09:230         cBlockDiagramConnector.Activate:  END: Budget COS n-1 to Proposed Stock Purchase n                :0.011687
+
+15:58:09:235         cBlockDiagramConnector.Activate:  Stock Data Target Stock to Proposed Stock Purchase n
+
+15:58:09:240          cNotify.elements:  START Curved Connector 33
+15:58:09:240           Stock Data Target Stock                                                                         :0.000042
+
+15:58:09:240           Stock Data Target Stock.Activate:  START
+
+15:58:09:245            cNotify.elements:  START Stock Data Target Stock
+15:58:09:245            cNotify.elements:  END                                                                         :0.000060
+15:58:09:245            cNotify.elements:  START Stock Data Target Stock
+15:58:09:245            cNotify.elements:  END                                                                         :0.000061
+15:58:09:245           Stock Data Target Stock.Activate:  END                                                          :0.006000
+15:58:09:245          cNotify.elements:  END                                                                           :0.008389
+15:58:09:245         cBlockDiagramConnector.Activate:  END: Stock Data Target Stock to Proposed Stock Purchase n       :0.012077
+
+15:58:09:250         cBlockDiagramConnector.Activate:  Stock Data MOQ to Proposed Stock Purchase n
+
+15:58:09:250          cNotify.elements:  START Curved Connector 34
+15:58:09:250           Stock Data MOQ                                                                                  :0.000037
+
+15:58:09:255           Stock Data MOQ.Activate:  START
+
+15:58:09:260            cNotify.elements:  START Stock Data MOQ
+15:58:09:260            cNotify.elements:  END                                                                         :0.000062
+15:58:09:260            cNotify.elements:  START Stock Data MOQ
+15:58:09:260            cNotify.elements:  END                                                                         :0.000055
+15:58:09:260           Stock Data MOQ.Activate:  END                                                                   :0.005779
+15:58:09:260          cNotify.elements:  END                                                                           :0.008726
+15:58:09:260         cBlockDiagramConnector.Activate:  END: Stock Data MOQ to Proposed Stock Purchase n                :0.012079
+
+15:58:09:265         cBlockDiagramConnector.Activate:  Budget COS n to Proposed Stock Purchase n
+
+15:58:09:265          cNotify.elements:  START Curved Connector 45
+15:58:09:265           Budget COS n                                                                                    :0.000037
+
+15:58:09:270           Budget COS n.Activate:  START
+
+15:58:09:275            cNotify.elements:  START Budget COS n
+15:58:09:275            cNotify.elements:  END                                                                         :0.000079
+15:58:09:275            cNotify.elements:  START Budget COS n
+15:58:09:275              Curved Connector 29
+15:58:09:275              Curved Connector 30
+15:58:09:275              Curved Connector 31
+15:58:09:275              END                                                                                          :0.000103
+
+15:58:09:280             cBlockDiagramConnector.Activate:  Product Data time const to Budget COS n
+
+15:58:09:280              cNotify.elements:  START Curved Connector 29
+15:58:09:280               Product Data time const                                                                     :0.000040
+
+15:58:09:285               Product Data time const.Activate:  START
+
+15:58:09:290                cNotify.elements:  START Product Data time const
+15:58:09:290                cNotify.elements:  END                                                                     :0.000065
+15:58:09:290                cNotify.elements:  START Product Data time const
+15:58:09:290                cNotify.elements:  END                                                                     :0.000055
+15:58:09:290               Product Data time const.Activate:  END                                                      :0.005853
+15:58:09:290              cNotify.elements:  END                                                                       :0.008137
+15:58:09:290             cBlockDiagramConnector.Activate:  END: Product Data time const to Budget COS n                :0.011793
+
+15:58:09:290             cBlockDiagramConnector.Activate:  Product Data final sales to Budget COS n
+
+15:58:09:295              cNotify.elements:  START Curved Connector 30
+15:58:09:295               Product Data final sales                                                                    :0.000036
+
+15:58:09:295               Product Data final sales.Activate:  START
+
+15:58:09:300                cNotify.elements:  START Product Data final sales
+15:58:09:300                cNotify.elements:  END                                                                     :0.000060
+15:58:09:300                cNotify.elements:  START Product Data final sales
+15:58:09:305                cNotify.elements:  END                                                                     :0.000055
+15:58:09:305               Product Data final sales.Activate:  END                                                     :0.005521
+15:58:09:305              cNotify.elements:  END                                                                       :0.007704
+15:58:09:305             cBlockDiagramConnector.Activate:  END: Product Data final sales to Budget COS n               :0.011061
+
+15:58:09:305             cBlockDiagramConnector.Activate:  Product Data initial sales to Budget COS n
+
+15:58:09:310              cNotify.elements:  START Curved Connector 31
+15:58:09:310               Product Data initial sales                                                                  :0.000036
+
+15:58:09:310               Product Data initial sales.Activate:  START
+
+15:58:09:315                cNotify.elements:  START Product Data initial sales
+15:58:09:315                cNotify.elements:  END                                                                     :0.000060
+15:58:09:315                cNotify.elements:  START Product Data initial sales
+15:58:09:315                cNotify.elements:  END                                                                     :0.000055
+15:58:09:315               Product Data initial sales.Activate:  END                                                   :0.005528
+15:58:09:315              cNotify.elements:  END                                                                       :0.007929
+15:58:09:315             cBlockDiagramConnector.Activate:  END: Product Data initial sales to Budget COS n             :0.011294
+15:58:09:315            cNotify.elements:  END                                                                         :0.040980
+15:58:09:315           Budget COS n.Activate:  END                                                                     :0.047324
+15:58:09:315          cNotify.elements:  END                                                                           :0.049641
+15:58:09:315         cBlockDiagramConnector.Activate:  END: Budget COS n to Proposed Stock Purchase n                  :0.053030
+
+15:58:09:320         cBlockDiagramConnector.Activate:  ROP (re-order ppoint) n to Proposed Stock Purchase n
+
+15:58:09:320          cNotify.elements:  START Curved Connector 50
+15:58:09:320           ROP (re-order ppoint) n                                                                         :0.000038
+
+15:58:09:325           ROP (re-order ppoint) n.Activate:  START
+
+15:58:09:330            cNotify.elements:  START ROP (re-order ppoint) n
+15:58:09:330            cNotify.elements:  END                                                                         :0.000063
+15:58:09:330            cNotify.elements:  START ROP (re-order ppoint) n
+15:58:09:330              Curved Connector 35
+15:58:09:330              END                                                                                          :0.000041
+
+15:58:09:330             cBlockDiagramConnector.Activate:  Stock Data Re-order Point to ROP (re-order ppoint) n
+
+15:58:09:335              cNotify.elements:  START Curved Connector 35
+15:58:09:335               Stock Data Re-order Point                                                                   :0.000040
+
+15:58:09:340               Stock Data Re-order Point.Activate:  START
+
+15:58:09:340                cNotify.elements:  START Stock Data Re-order Point
+15:58:09:340                cNotify.elements:  END                                                                     :0.000065
+15:58:09:345                cNotify.elements:  START Stock Data Re-order Point
+15:58:09:345                cNotify.elements:  END                                                                     :0.000056
+15:58:09:345               Stock Data Re-order Point.Activate:  END                                                    :0.005718
+15:58:09:345              cNotify.elements:  END                                                                       :0.007914
+15:58:09:345             cBlockDiagramConnector.Activate:  END: Stock Data Re-order Point to ROP (re-order ppoint) n   :0.011567
+15:58:09:345            cNotify.elements:  END                                                                         :0.013873
+15:58:09:345           ROP (re-order ppoint) n.Activate:  END                                                          :0.019622
+15:58:09:345          cNotify.elements:  END                                                                           :0.021860
+15:58:09:345         cBlockDiagramConnector.Activate:  END: ROP (re-order ppoint) n to Proposed Stock Purchase n       :0.025249
+15:58:09:345        cNotify.elements:  END                                                                             :0.196411
+15:58:09:345       Proposed Stock Purchase n.Activate:  END                                                            :0.202128
+15:58:09:345      cNotify.elements:  END                                                                               :0.204342
+15:58:09:345     cBlockDiagramConnector.Activate:  END: Proposed Stock Purchase n to Stock Purchase n                  :0.207893
+
+15:58:09:345     cBlockDiagramConnector.Activate:  Opening stock n to Stock Purchase n
+
+15:58:09:350      cNotify.elements:  START Curved Connector 17
+15:58:09:350       Opening stock n                                                                                     :0.000039
+15:58:09:350      cNotify.elements:  END                                                                               :0.000128
+15:58:09:350     cBlockDiagramConnector.Activate:  END: Opening stock n to Stock Purchase n                            :0.003617
+
+15:58:09:350     cBlockDiagramConnector.Activate:  Available cash n to Stock Purchase n
+
+15:58:09:355      cNotify.elements:  START Curved Connector 48
+15:58:09:355       Available cash n                                                                                    :0.000038
+
+15:58:09:360       Available cash n.Activate:  START
+
+15:58:09:360        cNotify.elements:  START Available cash n
+15:58:09:360        cNotify.elements:  END                                                                             :0.000062
+15:58:09:365        cNotify.elements:  START Available cash n
+15:58:09:365          Curved Connector 43
+15:58:09:365          END                                                                                              :0.000042
+
+15:58:09:365         cBlockDiagramConnector.Activate:  Reserves n-1 to Available cash n
+
+15:58:09:370          cNotify.elements:  START Curved Connector 43
+15:58:09:370           Reserves n-1                                                                                    :0.000041
+
+15:58:09:370           Reserves n-1.Activate:  START
+
+15:58:09:375            cNotify.elements:  START Reserves n-1
+15:58:09:375            cNotify.elements:  END                                                                         :0.000067
+15:58:09:375            cNotify.elements:  START Reserves n-1
+15:58:09:375            cNotify.elements:  END                                                                         :0.000054
+15:58:09:375           Reserves n-1.Activate:  END                                                                     :0.005793
+15:58:09:375          cNotify.elements:  END                                                                           :0.008004
+15:58:09:375         cBlockDiagramConnector.Activate:  END: Reserves n-1 to Available cash n                           :0.011519
+15:58:09:375        cNotify.elements:  END                                                                             :0.013834
+15:58:09:375       Available cash n.Activate:  END                                                                     :0.019436
+15:58:09:375      cNotify.elements:  END                                                                               :0.021647
+15:58:09:375     cBlockDiagramConnector.Activate:  END: Available cash n to Stock Purchase n                           :0.025104
+15:58:09:375    cNotify.elements:  END                                                                                 :0.243506
+15:58:09:375   Stock Purchase n.Activate:  END                                                                         :0.249269
+15:58:09:375  Stock Purchase n.headBlock:  END                                                                         :0.251717
+15:58:09:375 cBlockDiagram.mNotifier_Activated:  END                                                                   :0.414159
+15:58:09:375  : Events On                                                                                              :0.000003
+15:58:09:385  : Screen On                                                                                              :0.000008
+15:58:09:390  : xlCalculationManual                                                                                    :0.000010

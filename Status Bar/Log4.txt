@@ -1,0 +1,86 @@
+
+11:06:11:023 ThisWorkbook.Workbook_Open:  START
+11:06:33:463  cShutDownTimer.Class_Initialize:  START
+11:06:33:463   cOnTime.Class_Initialize:  START
+11:06:33:463   cOnTime.Class_Initialize:  END                                                      :0.000226
+11:06:33:463   cOnTime.Startit:  START
+11:06:33:478   cOnTime.Startit:  END: 11:06:43:                                                    :0.025926
+11:06:33:478   cShutDownTimer.ShowTimeLeft:  START   shutDownTimer 11:06
+11:06:33:665   cShutDownTimer.ShowTimeLeft:  END: Time Left:    00:00:10 \                         :0.184968
+11:06:33:665   cOnTime.Class_Initialize:  START
+11:06:33:665   cOnTime.Class_Initialize:  END                                                      :0.000406
+11:06:33:665   cOnTime.Startit:  START
+11:06:33:665   cOnTime.Startit:  END: 11:06:38:                                                    :0.000364
+11:06:33:665  cShutDownTimer.Class_Initialize:  END                                                :0.213493
+11:06:33:665 ThisWorkbook.Workbook_Open:  END                                                      :22.647115
+
+11:06:38:536 modCallBacks.onTimeProc:  START   Callback on 492925552 for 11:06:38
+11:06:38:536  cOnTime.RaiseTimerEvent in 492925552:  START
+11:06:38:536   cShutDownTimer.updateTimer_OnTimer:  START
+11:06:38:536    cShutDownTimer.ShowTimeLeft:  START   shutDownTimer 11:06
+11:06:38:536    cShutDownTimer.ShowTimeLeft:  END: Time Left:    00:00:05 /                        :0.004851
+11:06:38:536    cOnTime.Startit:  START
+11:06:38:536    cOnTime.Startit:  END: 11:06:43:                                                   :0.000363
+11:06:38:536   cShutDownTimer.updateTimer_OnTimer:  END                                            :0.005854
+11:06:38:536  cOnTime.RaiseTimerEvent in 492925552:  END                                           :0.006217
+11:06:38:536 modCallBacks.onTimeProc:  END                                                         :0.006704
+
+11:06:43:436 modCallBacks.onTimeProc:  START   Callback on 492925552 for 11:06:43
+11:06:43:436  cOnTime.RaiseTimerEvent in 492925552:  START
+11:06:43:436   cShutDownTimer.updateTimer_OnTimer:  START
+11:06:43:436    cShutDownTimer.ShowTimeLeft:  START   shutDownTimer 11:06
+11:06:43:436    cShutDownTimer.ShowTimeLeft:  END: Time Left:    00:00:00 \                        :0.004877
+11:06:43:436    cOnTime.Startit:  START
+11:06:43:436    cOnTime.Startit:  END: 11:06:48:                                                   :0.000360
+11:06:43:436   cShutDownTimer.updateTimer_OnTimer:  END                                            :0.005888
+11:06:43:436  cOnTime.RaiseTimerEvent in 492925552:  END                                           :0.006243
+11:06:43:436 modCallBacks.onTimeProc:  END                                                         :0.006769
+
+11:06:43:436 modCallBacks.onTimeProc:  START   Callback on 492925448 for 11:06:43
+11:06:43:436  cOnTime.RaiseTimerEvent in 492925448:  START
+11:06:43:436   cShutDownTimer.shutdownTimer_OnTimer:  START
+11:06:43:436    cOnTime.Killit:  START   492925552
+11:06:43:436     cOnTime.Stopit:  START
+11:06:43:436     cOnTime.Stopit:  END: 11:06:48:                                                   :0.000326
+11:06:43:436     cOnTime.Stopit:  START
+11:06:43:436     cOnTime.Stopit:  END: 11:06:48:
+11:06:43:436ERROR: 1004: Method 'OnTime' of object '_Application' failed:0.001704
+11:06:43:467     cOnTime.Stopit:  START
+11:06:43:467     cOnTime.Stopit:  END: 11:06:48:
+11:06:43:467ERROR: 1004: Method 'OnTime' of object '_Application' failed:0.001471
+11:06:43:467    cOnTime.Killit:  END                                                               :0.023394
+11:06:43:467    ThisWorkbook.shutDownTimer_shutDown:  START
+11:06:44:700                                       :  shutDown Scheduled                           :1.235094
+11:06:44:700    ThisWorkbook.shutDownTimer_shutDown:  END                                          :1.235428
+11:06:44:700   cShutDownTimer.shutdownTimer_OnTimer:  END                                          :1.259367
+11:06:44:700  cOnTime.RaiseTimerEvent in 492925448:  END                                           :1.259827
+11:06:44:700 modCallBacks.onTimeProc:  END                                                         :1.260265
+
+11:06:44:700 ThisWorkbook.closeWorkbook:  START
+11:06:44:700                           :  Saved                                                    :0.000208
+11:06:44:700  ThisWorkbook.Workbook_BeforeClose:  START
+11:06:44:700   ThisWorkbook.killTimers:  START
+11:06:44:700    cShutDownTimer.Class_Terminate:  START
+11:06:44:700     cOnTime.Killit:  START   492925552
+11:06:44:700      cOnTime.Stopit:  START
+11:06:44:700      cOnTime.Stopit:  END: 11:06:48:                                                  :0.000273
+11:06:44:700      cOnTime.Stopit:  START
+11:06:44:700      cOnTime.Stopit:  END: 11:06:48:                                                  :0.000258
+11:06:44:700      cOnTime.Stopit:  START
+11:06:44:700      cOnTime.Stopit:  END: 11:06:48:                                                  :0.000257
+11:06:44:700     cOnTime.Killit:  END                                                              :0.001529
+11:06:44:700     cOnTime.Killit:  START   492925448
+11:06:44:700      cOnTime.Stopit:  START
+11:06:44:700      cOnTime.Stopit:  END: 11:06:43:                                                  :0.000256
+11:06:44:700      cOnTime.Stopit:  START
+11:06:44:700      cOnTime.Stopit:  END: 11:06:43:                                                  :0.000257
+11:06:44:715      cOnTime.Stopit:  START
+11:06:44:715      cOnTime.Stopit:  END: 11:06:43:                                                  :0.000346
+11:06:44:715     cOnTime.Killit:  END                                                              :0.001612
+11:06:44:715    cShutDownTimer.Class_Terminate:  END                                               :0.003682
+11:06:44:715    cOnTime.Class_Terminate:  START
+11:06:44:715    cOnTime.Class_Terminate:  END                                                      :0.000175
+11:06:44:715    cOnTime.Class_Terminate:  START
+11:06:44:715    cOnTime.Class_Terminate:  END                                                      :0.000172
+11:06:44:715   ThisWorkbook.killTimers:  END                                                       :0.004805
+11:06:44:715  ThisWorkbook.Workbook_BeforeClose:  END                                              :0.005200

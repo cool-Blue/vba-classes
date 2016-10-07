@@ -1,0 +1,254 @@
+<Project>
+  <Name>statusBar</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Untitled</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>cOnTime</Name>
+        <Access>Public</Access>
+        <Location left="10" top="568" />
+        <Size width="314" height="247" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public readonly str Name</Member>
+        <Member type="Field">public readonly date nextTime</Member>
+        <Member type="Field">coll Timers</Member>
+        <Member type="Method">public void startit(int IntervalSec)</Member>
+        <Member type="Method">public void Resetit(int IntervalSec)</Member>
+        <Member type="Method">public void stopit()</Member>
+        <Member type="Method">public void Killit()</Member>
+        <Member type="Method">private void joinCollection()</Member>
+        <Member type="Method">public void RaiseTimerEvent()</Member>
+        <Member type="Event">public event Event onTime</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>cShutDownTimer</Name>
+        <Access>Public</Access>
+        <Location left="10" top="215" />
+        <Size width="314" height="281" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public cWorkbook Wbk</Member>
+        <Member type="Field">cOnTime updateTimer</Member>
+        <Member type="Field">cOnTime shutDownTimer</Member>
+        <Member type="Constructor">private cShutDownTimer()</Member>
+        <Member type="Destructor">~cShutDownTimer()</Member>
+        <Member type="Method">private void resetTimer()</Member>
+        <Member type="Property">public workbook Wbk { set; }</Member>
+        <Member type="Method">private subscription Wbk_Activity()</Member>
+        <Member type="Event">public event Event shoutDown</Member>
+        <Member type="Method">private variant wkbPropGet(str prop)</Member>
+        <Member type="Method">private subscription updateTimer_OnTimer()</Member>
+        <Member type="Method">private subscription shutdownTimer_OnTimer()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>modCallBacks</Name>
+        <Access>Public</Access>
+        <Location left="396" top="568" />
+        <Size width="260" height="124" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public Coll gTimers</Member>
+        <Member type="Method">public void onTimeProc(str timerName)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>thisWorkBook</Name>
+        <Access>Public</Access>
+        <Location left="10" top="10" />
+        <Size width="314" height="162" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int hrShutdownDuration</Member>
+        <Member type="Field">int secPulsTime</Member>
+        <Member type="Field">cShutDownTimer shutDownTimer</Member>
+        <Member type="Method">public subscription shutDownTimer_shutDown()</Member>
+        <Member type="Method">private void Workbook_Open()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>cWorkbook</Name>
+        <Access>Public</Access>
+        <Location left="396" top="215" />
+        <Size width="260" height="123" />
+        <Collapsed>False</Collapsed>
+        <Member type="Property">public Workbook Wbk { set; }</Member>
+        <Member type="Event">public event Event Activity</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Comment">
+        <Text>Circular ref is broken by Killit</Text>
+        <Location left="317" top="512" />
+        <Size width="188" height="50" />
+      </Entity>
+      <Entity type="Comment">
+        <Text>Circular ref is broken by Killit</Text>
+        <Location left="431" top="144" />
+        <Size width="188" height="50" />
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Dependency" first="2" second="0">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>681</X>
+          <Y>664</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>353</X>
+          <Y>782</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Nesting" first="3" second="1">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="False">
+          <X>137</X>
+          <Y>190</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Nesting" first="1" second="0">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>136</X>
+          <Y>521</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Nesting" first="1" second="4">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>349</X>
+          <Y>281</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>371</X>
+          <Y>234</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Association" first="1" second="4">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>349</X>
+          <Y>394</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>370</X>
+          <Y>294</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+      </Relationship>
+      <Relationship type="Association" first="2" second="0">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>681</X>
+          <Y>631</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>160</X>
+          <Y>509</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+      </Relationship>
+      <Relationship type="Dependency" first="1" second="3">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>702</X>
+          <Y>430</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>352</X>
+          <Y>140</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Dependency" first="0" second="1">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>725</X>
+          <Y>800</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>349</X>
+          <Y>479</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Dependency" first="0" second="1">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>365</X>
+          <Y>800</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>725</X>
+          <Y>462</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Association" first="1" second="3">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>723</X>
+          <Y>447</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>352</X>
+          <Y>35</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+      </Relationship>
+      <Relationship type="Dependency" first="4" second="1">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>681</X>
+          <Y>311</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>349</X>
+          <Y>413</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Association" first="0" second="2">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>349</X>
+          <Y>666</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>369</X>
+          <Y>632</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>

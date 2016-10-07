@@ -1,0 +1,23 @@
+<Project>
+  <Name>ClassPointers</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Untitled</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Class1</Name>
+        <Access>Public</Access>
+        <Location left="169" top="54" />
+        <Size width="218" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public str Name</Member>
+        <Member type="Property">public lptr VarPtr { get; }</Member>
+        <Member type="Property">public lptr ObjPtr { get; }</Member>
+        <Member type="Method">private void Class_Initialise()</Member>
+        <Member type="Method">private void Class_Terminate()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships />
+  </ProjectItem>
+</Project>

@@ -1,0 +1,128 @@
+
+09:25:08:628 ThisWorkbook.Workbook_Open:  START
+09:25:18:811  cShutDownTimer.Class_Initialize:  START
+09:25:18:811   cOnTime.Class_Initialize:  START
+09:25:18:811   cOnTime.Class_Initialize:  END                                                      :0.000448
+09:25:18:811   cOnTime.Startit:  START
+09:25:18:811   cOnTime.Startit:  END: Interval: 12:00:10 AM Now :09:25                             :0.000606
+09:25:18:811   cOnTime.Class_Initialize:  START
+09:25:18:811   cOnTime.Class_Initialize:  END                                                      :0.000402
+09:25:18:811   cOnTime.Startit:  START
+09:25:18:811   cOnTime.Startit:  END: Interval: 12:00:02 AM Now :09:25                             :0.000537
+09:25:18:827  cShutDownTimer.Class_Initialize:  END                                                :0.013011
+09:25:18:827 ThisWorkbook.Workbook_Open:  END                                                      :10.198619
+
+09:25:20:355 modCallBacks.onTimeProc:  START   Callback on 589554176
+09:25:20:355  cOnTime.RaiseTimerEvent in 589554176:  START
+09:25:20:355   cShutDownTimer.updateTimer_OnTimer:  START
+09:25:20:355    cShutDownTimer.ShowTimeLeft:  START   shutDownTimer 09:25
+09:25:20:355    cShutDownTimer.ShowTimeLeft:  END: Time Left:    00:00:08 \                        :0.006051
+09:25:20:355    cOnTime.Startit:  START
+09:25:20:355    cOnTime.Startit:  END: Interval: 12:00:02 AM Now :09:25                            :0.000590
+09:25:20:371   cShutDownTimer.updateTimer_OnTimer:  END                                            :0.012661
+09:25:20:371  cOnTime.RaiseTimerEvent in 589554176:  END                                           :0.018596
+09:25:20:371 modCallBacks.onTimeProc:  END                                                         :0.022142
+
+09:25:22:370 modCallBacks.onTimeProc:  START   Callback on 589554176
+09:25:22:370  cOnTime.RaiseTimerEvent in 589554176:  START
+09:25:22:370   cShutDownTimer.updateTimer_OnTimer:  START
+09:25:22:370    cShutDownTimer.ShowTimeLeft:  START   shutDownTimer 09:25
+09:25:22:370    cShutDownTimer.ShowTimeLeft:  END: Time Left:    00:00:06 /                        :0.005229
+09:25:22:370    cOnTime.Startit:  START
+09:25:22:370    cOnTime.Startit:  END: Interval: 12:00:02 AM Now :09:25                            :0.000675
+09:25:22:385   cShutDownTimer.updateTimer_OnTimer:  END                                            :0.015478
+09:25:22:385  cOnTime.RaiseTimerEvent in 589554176:  END                                           :0.019502
+09:25:22:385 modCallBacks.onTimeProc:  END                                                         :0.022961
+
+09:25:23:290 cOnTime.Resetit:  START
+09:25:23:290  cOnTime.Stopit:  START
+09:25:23:368  cOnTime.Stopit:  END                                                                 :0.063815
+09:25:23:368  cOnTime.Startit:  START
+09:25:23:368  cOnTime.Startit:  END: Interval: 12:00:10 AM Now :09:25                              :0.000893
+09:25:23:368 cOnTime.Resetit:  END                                                                 :0.073864
+
+09:25:24:523 modCallBacks.onTimeProc:  START   Callback on 589554176
+09:25:24:523  cOnTime.RaiseTimerEvent in 589554176:  START
+09:25:24:523   cShutDownTimer.updateTimer_OnTimer:  START
+09:25:24:523    cShutDownTimer.ShowTimeLeft:  START   shutDownTimer 09:25
+09:25:24:523    cShutDownTimer.ShowTimeLeft:  END: Time Left:    00:00:09 \                        :0.005584
+09:25:24:538    cOnTime.Startit:  START
+09:25:24:538    cOnTime.Startit:  END: Interval: 12:00:02 AM Now :09:25                            :0.000637
+09:25:24:538   cShutDownTimer.updateTimer_OnTimer:  END                                            :0.014592
+09:25:24:538  cOnTime.RaiseTimerEvent in 589554176:  END                                           :0.017620
+09:25:24:538 modCallBacks.onTimeProc:  END                                                         :0.020895
+
+09:25:26:240 modCallBacks.onTimeProc:  START   Callback on 589554176
+09:25:26:240  cOnTime.RaiseTimerEvent in 589554176:  START
+09:25:26:240   cShutDownTimer.updateTimer_OnTimer:  START
+09:25:26:240    cShutDownTimer.ShowTimeLeft:  START   shutDownTimer 09:25
+09:25:26:255    cShutDownTimer.ShowTimeLeft:  END: Time Left:    00:00:07 /                        :0.016536
+09:25:26:255    cOnTime.Startit:  START
+09:25:26:255    cOnTime.Startit:  END: Interval: 12:00:02 AM Now :09:25                            :0.000647
+09:25:26:271   cShutDownTimer.updateTimer_OnTimer:  END                                            :0.024049
+09:25:26:271  cOnTime.RaiseTimerEvent in 589554176:  END                                           :0.028368
+09:25:26:271 modCallBacks.onTimeProc:  END                                                         :0.032883
+
+09:25:28:318 modCallBacks.onTimeProc:  START   Callback on 589554176
+09:25:28:318  cOnTime.RaiseTimerEvent in 589554176:  START
+09:25:28:318   cShutDownTimer.updateTimer_OnTimer:  START
+09:25:28:318    cShutDownTimer.ShowTimeLeft:  START   shutDownTimer 09:25
+09:25:28:318    cShutDownTimer.ShowTimeLeft:  END: Time Left:    00:00:05 \                        :0.005342
+09:25:28:334    cOnTime.Startit:  START
+09:25:28:334    cOnTime.Startit:  END: Interval: 12:00:02 AM Now :09:25                            :0.000656
+09:25:28:334   cShutDownTimer.updateTimer_OnTimer:  END                                            :0.015362
+09:25:28:334  cOnTime.RaiseTimerEvent in 589554176:  END                                           :0.018394
+09:25:28:334 modCallBacks.onTimeProc:  END                                                         :0.021691
+
+09:25:30:409 modCallBacks.onTimeProc:  START   Callback on 589554176
+09:25:30:409  cOnTime.RaiseTimerEvent in 589554176:  START
+09:25:30:409   cShutDownTimer.updateTimer_OnTimer:  START
+09:25:30:409    cShutDownTimer.ShowTimeLeft:  START   shutDownTimer 09:25
+09:25:30:409    cShutDownTimer.ShowTimeLeft:  END: Time Left:    00:00:03 /                        :0.005205
+09:25:30:409    cOnTime.Startit:  START
+09:25:30:409    cOnTime.Startit:  END: Interval: 12:00:02 AM Now :09:25                            :0.000586
+09:25:30:425   cShutDownTimer.updateTimer_OnTimer:  END                                            :0.011648
+09:25:30:425  cOnTime.RaiseTimerEvent in 589554176:  END                                           :0.017679
+09:25:30:425 modCallBacks.onTimeProc:  END                                                         :0.021217
+
+09:25:32:094 modCallBacks.onTimeProc:  START   Callback on 589554176
+09:25:32:094  cOnTime.RaiseTimerEvent in 589554176:  START
+09:25:32:094   cShutDownTimer.updateTimer_OnTimer:  START
+09:25:32:094    cShutDownTimer.ShowTimeLeft:  START   shutDownTimer 09:25
+09:25:32:094    cShutDownTimer.ShowTimeLeft:  END: Time Left:    00:00:01 \                        :0.005237
+09:25:32:094    cOnTime.Startit:  START
+09:25:32:094    cOnTime.Startit:  END: Interval: 12:00:02 AM Now :09:25                            :0.000627
+09:25:32:109   cShutDownTimer.updateTimer_OnTimer:  END                                            :0.015791
+09:25:32:109  cOnTime.RaiseTimerEvent in 589554176:  END                                           :0.019058
+09:25:32:109 modCallBacks.onTimeProc:  END                                                         :0.022408
+
+09:25:33:279 modCallBacks.onTimeProc:  START   Callback on 589553864
+09:25:33:279  cOnTime.RaiseTimerEvent in 589553864:  START
+09:25:33:279   cShutDownTimer.shutdownTimer_OnTimer:  START
+09:25:33:279    ThisWorkbook.shutDownTimer_shutDown:  START
+09:25:35:495                                       :  shutDown Scheduled                           :2.208269
+09:25:35:495    ThisWorkbook.shutDownTimer_shutDown:  END                                          :2.211183
+09:25:35:495   cShutDownTimer.shutdownTimer_OnTimer:  END                                          :2.215507
+09:25:35:495  cOnTime.RaiseTimerEvent in 589553864:  END                                           :2.218577
+09:25:35:495 modCallBacks.onTimeProc:  END                                                         :2.223152
+
+09:25:35:510 ThisWorkbook.closeWorkbook:  START
+09:25:35:510                           :  Saved                                                    :0.000689
+09:25:35:510  ThisWorkbook.Workbook_BeforeClose:  START
+09:25:35:510   ThisWorkbook.killTimers:  START
+09:25:35:510    cShutDownTimer.Class_Terminate:  START
+09:25:35:510     cOnTime.Killit:  START   589554176
+09:25:35:510      cOnTime.Stopit:  START
+09:25:35:510      cOnTime.Stopit:  END                                                             :0.000500
+09:25:35:526     cOnTime.Killit:  END                                                              :0.006531
+09:25:35:526     cOnTime.Killit:  START   589553864
+09:25:35:526      cOnTime.Stopit:  START
+09:25:35:526      cOnTime.Stopit:  END                                                             :0.000778
+09:25:35:526     cOnTime.Killit:  END                                                              :0.003967
+09:25:35:526    cShutDownTimer.Class_Terminate:  END                                               :0.018339
+09:25:35:541    cOnTime.Class_Terminate:  START
+09:25:35:541    cOnTime.Class_Terminate:  END                                                      :0.000421
+09:25:35:541    cOnTime.Class_Terminate:  START
+09:25:35:541    cOnTime.Class_Terminate:  END                                                      :0.000413
+09:25:35:541   ThisWorkbook.killTimers:  END                                                       :0.027738
+09:25:35:541  ThisWorkbook.Workbook_BeforeClose:  END                                              :0.031362

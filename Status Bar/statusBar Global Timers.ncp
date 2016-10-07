@@ -1,0 +1,129 @@
+<Project>
+  <Name>statusBarGlobal</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Untitled</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>cOnTime</Name>
+        <Access>Internal</Access>
+        <Location left="664" top="479" />
+        <Size width="273" height="230" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public new str Name</Member>
+        <Member type="Field">public readonly date nextTime</Member>
+        <Member type="Method">public void startit(int IntervalSec)</Member>
+        <Member type="Method">public void stopit()</Member>
+        <Member type="Method">public void Killit()</Member>
+        <Member type="Method">public void RaiseTimerEvent()</Member>
+        <Member type="Event">public event EventHandler onTime</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>cShutDownTimer</Name>
+        <Access>Internal</Access>
+        <Location left="10" top="227" />
+        <Size width="273" height="179" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">cOnTime updateTimer</Member>
+        <Member type="Field">cOnTime shutDownTimer</Member>
+        <Member type="Event">public event EventHandler shoutDown</Member>
+        <Member type="Method">private void updateTimer_OnTimer()</Member>
+        <Member type="Method">private void shutdownTimer_OnTimer()</Member>
+        <Member type="Destructor">~cShutDownTimer()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>thisWorkBook</Name>
+        <Access>Public</Access>
+        <Location left="10" top="10" />
+        <Size width="273" height="162" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int hrShutdownDuration</Member>
+        <Member type="Field">int secPulsTeime</Member>
+        <Member type="Field">cShutDownTimer shutDownTimer</Member>
+        <Member type="Method">public void shutDownTimer_shutDown()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>cTimers</Name>
+        <Access>Public</Access>
+        <Location left="333" top="479" />
+        <Size width="273" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">col mTimers</Member>
+        <Member type="Method">public cOnTime Add()</Member>
+        <Member type="Method">public void Delete(cOnTime timer)</Member>
+        <Member type="Method">public void fireTimer(str timerName)</Member>
+        <Member type="Destructor">~cTimers()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>modCallBacks</Name>
+        <Access>Public</Access>
+        <Location left="10" top="479" />
+        <Size width="258" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">cTimers gTimers</Member>
+        <Member type="Method">public void onTimeProc(str timerName)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Dependency" first="2" second="1">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Dependency" first="3" second="0">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>639</X>
+          <Y>609</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>639</X>
+          <Y>641</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Dependency" first="1" second="3">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>145</X>
+          <Y>431</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>468</X>
+          <Y>454</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Dependency" first="0" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>966</X>
+          <Y>656</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>308</X>
+          <Y>355</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Dependency" first="4" second="3">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>296</X>
+          <Y>576</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>308</X>
+          <Y>607</Y>
+        </BendPoint>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>

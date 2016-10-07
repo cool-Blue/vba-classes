@@ -1,0 +1,10 @@
+
+13:25:08:261 ThisWorkbook.closeWorkbook:  START
+13:25:53:661  ThisWorkbook.Workbook_BeforeClose:  START
+13:25:53:671   Globals.testTimerKill:  START
+13:25:53:671   Globals.testTimerKill:  END                                                         :0.000607
+13:25:53:671   Globals.testTimerKill:  START
+13:25:53:671   Globals.testTimerKill:  END                                                         :0.000154
+13:25:53:671   Globals.testTimerKill:  START
+13:25:53:671   Globals.testTimerKill:  END                                                         :0.000150
+13:25:53:671  ThisWorkbook.Workbook_BeforeClose:  END                                              :0.001974

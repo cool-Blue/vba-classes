@@ -1,0 +1,20 @@
+
+12:15:33:694 Globals.testTimerSet:  START
+12:16:03:450 Globals.testTimerSet:  END                                                            :29.767823
+
+12:16:11:560 Globals.testClose:  START
+12:16:11:560                  :  shutDown Scheduled                                                :0.000929
+12:16:11:560 Globals.testClose:  END                                                               :0.004205
+
+12:16:11:576 ThisWorkbook.closeWorkbook:  START
+12:16:11:576                           :  Saved                                                    :0.000664
+12:16:11:591  ThisWorkbook.Workbook_BeforeClose:  START
+12:16:11:591   Globals.testTimerKill:  START
+12:16:11:591   Globals.testTimerKill:  END                                                         :0.000510
+12:16:11:591   Globals.testTimerKill:  START
+12:16:11:591   Globals.testTimerKill:  END                                                         :0.000479
+12:16:11:591   Globals.testTimerKill:  START
+12:16:11:591   Globals.testTimerKill:  END                                                         :0.000491
+12:16:11:591   ThisWorkbook.killTimers:  START
+12:16:11:591   ThisWorkbook.killTimers:  END                                                       :0.000501
+12:16:11:607  ThisWorkbook.Workbook_BeforeClose:  END                                              :0.014958

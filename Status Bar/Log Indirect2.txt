@@ -1,0 +1,23 @@
+
+13:11:53:834 Globals.testTimerKill:  START
+13:11:53:834 Globals.testTimerKill:  END
+13:11:53:834*ERROR: 1004: Method 'OnTime' of object '_Application' failed:0.001058
+
+13:11:59:561 Globals.testTimerSet:  START
+13:11:59:561                     :  'Globals.testCallBack "testTimer","14:11:59"'                  :0.000860
+13:11:59:577 Globals.testTimerSet:  END                                                            :0.004057
+
+13:12:43:745 Globals.testClose:  START
+13:12:43:745                  :  shutDown Scheduled                                                :0.006558
+13:12:43:761 Globals.testClose:  END                                                               :0.028444
+
+13:12:43:808 ThisWorkbook.closeWorkbook:  START
+13:12:43:808                           :  Saved                                                    :0.006121
+13:12:43:839  ThisWorkbook.Workbook_BeforeClose:  START
+13:12:43:839   Globals.testTimerKill:  START
+13:12:43:839   Globals.testTimerKill:  END                                                         :0.003497
+13:12:43:870   Globals.testTimerKill:  START
+13:12:43:870   Globals.testTimerKill:  END                                                         :0.003630
+13:12:43:886   Globals.testTimerKill:  START
+13:12:43:901   Globals.testTimerKill:  END                                                         :0.003668
+13:12:43:917  ThisWorkbook.Workbook_BeforeClose:  END                                              :0.084024

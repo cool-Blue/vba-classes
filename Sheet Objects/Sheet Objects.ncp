@@ -1,0 +1,151 @@
+<Project>
+  <Name>ClassPointers</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Untitled</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>SheetObjects_NameSpace</Name>
+        <Access>Public</Access>
+        <Location left="373" top="189" />
+        <Size width="384" height="468" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">Worksheet mWks</Member>
+        <Member type="Field">str mSpaceName</Member>
+        <Member type="Field">str mSpaceType</Member>
+        <Member type="Field">Range mSpaceRange</Member>
+        <Member type="Field">Range mHeaderRange</Member>
+        <Member type="Field">Collection mVariables</Member>
+        <Member type="Field">CurrentRegionBorders mcrb</Member>
+        <Member type="Property">public void nameSpace { set; }</Member>
+        <Member type="Property">public str[] Content { set; }</Member>
+        <Member type="Method">public Boolean addVariableUnTyped(ref str varName)</Member>
+        <Member type="Method">public Boolean addVariableTyped(str varName, str varType)</Member>
+        <Member type="Method">private SheetObjects_Variable createVariable(str varName, str varType)</Member>
+        <Member type="Property">public SheetObjects_Variable Variable_varName { get; }</Member>
+        <Member type="Property">public str Name { get; }</Member>
+        <Member type="Property">public Range SpaceRange { get; }</Member>
+        <Member type="Property">public Range Header { get; }</Member>
+        <Member type="Method">private Range getSpaceRange(str spaceType, str Name)</Member>
+        <Member type="Method">private Range getHeaderRange(Worksheet wks, str spaceType, str Name)</Member>
+        <Member type="Property">public Range varNameRange { get; }</Member>
+        <Member type="Method">private Boolean isIncluded(Variant col, str key)</Member>
+        <Member type="Property">public IUnknown NewEnum { get; }</Member>
+        <Member type="Constructor">private SheetObjects_NameSpace()</Member>
+        <Member type="Destructor">~SheetObjects_NameSpace()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Enum">
+        <Name>enNameSpaceTypes</Name>
+        <Access>Public</Access>
+        <Location left="10" top="10" />
+        <Size width="179" height="129" />
+        <Collapsed>False</Collapsed>
+        <Value>Module</Value>
+        <Value>Class</Value>
+        <Value>Function</Value>
+        <Value>Sub</Value>
+      </Entity>
+      <Entity type="Class">
+        <Name>CurrentRegionBorders</Name>
+        <Access>Public</Access>
+        <Location left="196" top="10" />
+        <Size width="561" height="127" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">internal const int maxCells = 1000</Member>
+        <Member type="Method">public Range currentRegionBorders(Range startCell, XlDirection direction = xlToLeft, Long limit = maxCells)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>SheetObjects_Environment</Name>
+        <Access>Public</Access>
+        <Location left="10" top="189" />
+        <Size width="309" height="211" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">Collection mNameSpaces</Member>
+        <Member type="Field">Collection nameSpaceNames</Member>
+        <Member type="Method">public void Add(SheetObjects_NameSpace Item)</Member>
+        <Member type="Method">public void Remove(Variant index)</Member>
+        <Member type="Property">SheetObjects_NameSpace Item { get; }</Member>
+        <Member type="Property">public Long Count { get; }</Member>
+        <Member type="Property">public IUnknown NewEnum { get; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>SheetObjects_GlobalRef</Name>
+        <Access>Public</Access>
+        <Location left="1153" top="502" />
+        <Size width="309" height="134" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private SheetObjects_NameSpace mNameSpace</Member>
+        <Member type="Method">public SheetObjects_Variable globalVar(Worksheet wks, str spaceName, str spaceType, str varName)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>SheetObjects_Variable</Name>
+        <Access>Public</Access>
+        <Location left="1153" top="189" />
+        <Size width="302" height="298" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private Range mNameRange</Member>
+        <Member type="Field">Range mVarRange</Member>
+        <Member type="Field">Range mbaseAddressRange</Member>
+        <Member type="Field">Range mContents</Member>
+        <Member type="Field">SheetObjects_InitDelColl mInitDelegate</Member>
+        <Member type="Property">public Range nameRange { get; set; }</Member>
+        <Member type="Property">public Range Range { get; }</Member>
+        <Member type="Property">public str Name { get; }</Member>
+        <Member type="Property">public str varType { get; }</Member>
+        <Member type="Property">public str baseAddress { get; set; }</Member>
+        <Member type="Property">public str Contents { get; set; }</Member>
+        <Member type="Property">public Long WordCount { get; }</Member>
+        <Member type="Constructor">public SheetObjects_Variable()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>SheetObjects_InitDelColl</Name>
+        <Access>Public</Access>
+        <Location left="787" top="549" />
+        <Size width="309" height="164" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">Collection Delegates</Member>
+        <Member type="Property">SheetObjects_InitDelegate Item { get; }</Member>
+        <Member type="Property">public IUnknown NewEnum { get; }</Member>
+        <Member type="Constructor">private SheetObjects_InitDelColl()</Member>
+        <Member type="Destructor">~SheetObjects_InitDelColl()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>SheetObjects_InitDelegate</Name>
+        <Access>Public</Access>
+        <Location left="787" top="187" />
+        <Size width="301" height="111" />
+        <Collapsed>False</Collapsed>
+        <Member type="Property">public str TypeName { get; }</Member>
+        <Member type="Method">public void constructVariable(Range nameRange, Range typeRange, Range baseAddressRange, Range Contents, Range varRange)</Member>
+        <Modifier>Abstract</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>SheetObjects_InitRef</Name>
+        <Access>Public</Access>
+        <Location left="787" top="309" />
+        <Size width="301" height="111" />
+        <Collapsed>False</Collapsed>
+        <Member type="Property">public str TypeName { get; }</Member>
+        <Member type="Method">public void constructVariable(Range nameRange, Range typeRange, Range baseAddressRange, Range Contents, Range varRange)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>SheetObjects_InitVariant</Name>
+        <Access>Public</Access>
+        <Location left="787" top="428" />
+        <Size width="301" height="111" />
+        <Collapsed>False</Collapsed>
+        <Member type="Property">public str TypeName { get; }</Member>
+        <Member type="Method">public void constructVariable(Range nameRange, Range typeRange, Range baseAddressRange, Range Contents, Range varRange)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships />
+  </ProjectItem>
+</Project>

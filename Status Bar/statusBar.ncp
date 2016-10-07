@@ -1,0 +1,90 @@
+<Project>
+  <Name>statusBar</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Untitled</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>cOnTime</Name>
+        <Access>Public</Access>
+        <Location left="10" top="441" />
+        <Size width="273" height="213" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">public readonly str Name</Member>
+        <Member type="Field">public readonly date nextTime</Member>
+        <Member type="Method">public void startit(int IntervalSec)</Member>
+        <Member type="Method">public void stopit()</Member>
+        <Member type="Method">public void Killit()</Member>
+        <Member type="Method">private void joinCollection()</Member>
+        <Member type="Method">public void RaiseTimerEvent()</Member>
+        <Member type="Event">public event EventHandler onTime</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>cShutDownTimer</Name>
+        <Access>Public</Access>
+        <Location left="10" top="222" />
+        <Size width="273" height="168" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">cOnTime updateTimer</Member>
+        <Member type="Field">cOnTime shutDownTimer</Member>
+        <Member type="Event">public event EventHandler shoutDown</Member>
+        <Member type="Method">private void updateTimer_OnTimer()</Member>
+        <Member type="Method">private void shutdownTimer_OnTimer()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>modCallBacks</Name>
+        <Access>Public</Access>
+        <Location left="351" top="441" />
+        <Size width="260" height="124" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">Coll gTimers</Member>
+        <Member type="Method">public void onTimeProc(str timerName)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>thisWorkBook</Name>
+        <Access>Public</Access>
+        <Location left="10" top="10" />
+        <Size width="273" height="162" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int hrShutdownDuration</Member>
+        <Member type="Field">int secPulsTeime</Member>
+        <Member type="Field">cShutDownTimer shutDownTimer</Member>
+        <Member type="Method">public void shutDownTimer_shutDown()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Dependency" first="3" second="1">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Dependency" first="1" second="0">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Dependency" first="0" second="2">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>308</X>
+          <Y>604</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Dependency" first="2" second="0">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>636</X>
+          <Y>537</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>310</X>
+          <Y>640</Y>
+        </BendPoint>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>

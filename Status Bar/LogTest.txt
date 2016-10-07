@@ -1,0 +1,16 @@
+
+11:57:16:776 Globals.testTimerSet:  START
+11:57:42:104 Globals.testTimerSet:  END                                                            :25.320064
+
+11:57:49:399 ThisWorkbook.Workbook_BeforeClose:  START
+11:57:49:415  Globals.testTimerKill:  START
+11:57:49:415  Globals.testTimerKill:  END                                                          :0.003400
+11:57:49:415  Globals.testTimerKill:  START
+11:57:49:415  Globals.testTimerKill:  END
+11:57:49:415**ERROR: 1004: Method 'OnTime' of object '_Application' failed:0.003361
+11:57:49:430  Globals.testTimerKill:  START
+11:57:49:430  Globals.testTimerKill:  END
+11:57:49:430**ERROR: 1004: Method 'OnTime' of object '_Application' failed:0.003214
+11:57:49:430  ThisWorkbook.killTimers:  START
+11:57:49:446  ThisWorkbook.killTimers:  END                                                        :0.003141
+11:57:49:446 ThisWorkbook.Workbook_BeforeClose:  END                                               :0.049790
